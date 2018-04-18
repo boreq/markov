@@ -1,0 +1,2646 @@
+Part one
+
+While working as a “system hacker” in MIT's AI Lab (i.e. a member of the team
+developing the Lab's own operating system) he experienced the profound change
+that overtook the software industry. Up until that point the general practice
+was for people to freely share, modify and reuse operating system software
+developed for the machines of the day. In the 1970's the software industry
+stopped distributing the source code of these programs, making it impossible
+for computer users to study and modify them. Furthermore new copyright laws
+made it illegal to do so.
+
+The change struck him as unethical, and it affected him personally as the
+hacker community in which he thrived was broken up as two competing companies
+hired most of the talent in the Lab to develop nonfree products. Stallman went
+against the trend and decided to devote his life to the development of free
+software, where the user has the right to use the program in any way he sees
+fit, study the source code, modify it and even redistribute his modified
+versions to others. In 1984 he quit the MIT AI Lab and started developing GNU,
+the first free operating system which today, with the addition of a piece of
+software developed by a young Finish student, Linus Torvalds, forms GNU/Linux.
+
+Today, it is run on the majority of servers on the Internet, academic
+institutions, large enterprises, the military, and on desktops of millions of
+people around the world who have rejected software licenses that come with
+Windows and Mac OS. They choose to run a system that was started by Stallman
+and further developed by thousands of others over the Internet. GNU/Linux is
+superior to proprietary software from a technical point of view, and it's
+available gratis, but Stallman insists that these are welcome, but secondary
+features. Freedom is the key. We start the conversation talking about
+electronic rights.
+
+You've said “in the Internet age we have less rights that in the physical
+world.”
+
+Yes. For instance in The US, Internet service providers can disconnect you
+without going to court, they don't have to prove that there is a reason.
+And as a result they can censor you. If you want to print papers and stand
+on the street handing them out you can do that, you don't have to beg some
+company to “please cooperate” so that you can do it. But to do this on the
+Internet you need the cooperation of an ISP and a domain name registrar and
+maybe a hosting service, and if they don't like what you're doing or
+somebody threatens them who has a lot of power and doesn't like what you're
+doing, then they can just terminate your service and censor you.
+
+People should have a legal right to continued service of any of these kinds
+as long as they fulfill their side of the bargain. I believe it's the case
+in the US that the phone company can't arbitrarily disconnect your phone
+line as long as you continue paying your bill and so on, then they have to
+keep giving you phone service, it's not their choice. It should be the same
+with Internet connectivity. It shouldn't be their choice, they shouldn't be
+allowed to set their own conditions for continuing to give you service.
+They should provide the service as a public utility?
+
+Exactly.  This dependence on a corporation also extends to financial
+transactions.
+
+That's the other aspect in which the digital world gives us less rights
+than the physical world. Suppose in addition to handing out papers on the
+street, you'd like to ask people to give money to the cause. They can give
+cash, and you can accept the cash, and you don't need the cooperation of
+any company in order to do so. Once you receive the cash, it's valid money,
+and you can spend it. But, to do the same thing in the digital world you
+need the services of a payment company, and those companies might
+arbitrarily disconnect you also.  This is what happened with WikiLeaks.
+After it released information that embarrassed the US government (among
+others), MasterCard and Visa stop accepting donations for the site.
+
+Exactly. WikiLeaks showed all these vulnerabilities because the US
+government decided to silence them and did everything they could to do so.
+It has caused a lot of harm although you can still access the WikiLeaks
+pages if you use the right domain name. They did manage to cut off most of
+the donations to WikiLeaks, and now it's having trouble operating.  The
+organization has received a lot of bad publicity in the US. What's your
+view?
+
+WikiLeaks is doing something heroic. A lot of the press in the US is
+subservient to the government, this is true in a lot of countries. Or you
+might better say that it's subservient to business, but the US government
+works for business, so business wants to say good things about it. I think
+we need laws stopping the payment companies from disconnecting anybody's
+service, except when they prove that they have cause.  Technology has
+spawned new forms of control, but it has also resulted in new ways of
+protest, self-organization, and dissent. Anonymous stands out as an example
+of hacktivists.
+
+Anonymous does various different things. Most often Anonymous has a lot of
+people go to the door of an organization's website, they're a crowd, and so
+they may get in somebody's way. This is comparable to protesting in front
+of the organization's building in the physical world. And that we recognize
+as democratic political activity. So Anonymous' web protests are also
+democratic political activity. Of course, the forces of oppression want to
+define this as a crime rather than a protest, and they're using the change
+in technology as an opportunity effectively to criminalize protests.
+
+Another thing that I think maybe Anonymous' members have done, is changing
+the text in the websites so as to criticize the organization whose site it
+is. This is the virtual equivalent of writing a critical slogan on a
+poster, which is pretty normal democratic political activity, but they call
+it “attacking” the site. The word “attack” is meant to give people the idea
+that this is something other than a political protest and put people in
+prison for protesting.  Among hackers the term “hacker” means something
+completely different than what it means to the general public. Could you
+explain that difference?
+
+Starting from 40 years ago, when I joined the hacker community at MIT, I've
+been proud to call myself a hacker. I was hired by MIT to be a system
+hacker, meaning to make the system better. At the time, we used an
+operating system called ITS, the Incompatible Timesharing System, which had
+been developed by the team of hackers at the Artificial Intelligence Lab;
+and then they hired me to be part of the team. My job was to make the
+system better. Hacking had a more general meaning, which meant basically
+being playfully clever and pushing the limits of what was possible.
+Hacking doesn't even have to involve computers.
+
+Hacking was not limited in improving the operating system. You could hack
+in any media, it didn't have to involve computers. Hacking, as a general
+concept, is an attitude towards life. What's fun for you? If finding
+playful clever ways that were thought impossible is fun then you're a
+hacker. One thing that was supposed to be impossible was breaking the
+security on computers. So some people who were inclined to be hackers got
+into that medium of breaking security. Then journalists found about hackers
+around 1981, misunderstood them, and they thought hacking was breaking
+security. That's not generally true: first of all, there are many ways of
+hacking that have nothing to do with security, and second, breaking
+security is not necessarily hacking. It's only hacking if you're being
+playfully clever about it.
+
+Software Patents
+
+Apart from electronic rights you are also a campaigner against software
+patents. Companies like Amazon, Google, and Apple, to name a few, are currently
+engaged in heated patent wars.
+
+Patents are like land mines for software developers. It doesn't surprise me
+that a product such as an Android phone is accused of violating a
+tremendous number of patents, because it's a complicated software system.
+Any such complicated software system is going to have thousands of ideas in
+it, and if 10% of these ideas are patented that means hundreds of those
+ideas are patented. So any large program is likely to run afoul of hundreds
+of patents, and a system that's a combination of many programs is likely to
+run afoul of thousands of patents or more.  As the law stands, these
+patents have an expiration date of 20 years from the moment they were
+filed.
+
+This is a very long time in the software field. Keep in mind that any time
+the technological context changes, then we need to adapt our way of doing
+many things to fit the new context. Which means they will all need new
+ideas, and if those new ideas are patented it's yet another disaster.
+What's special about software that you think it should not have the patent
+system apply to it?
+
+Software is not the usual kind of case for patents. Let's look at the usual
+case: patents for something that's made in a factory. Those patents only
+affect the companies that have the factories and make the products. If they
+can all live with the patent system the rest of us have no reason to care.
+But with software, the problem is that it is much more complicated than
+anything else. The reason is software is inherently easier to design than
+physical products.
+
+Software is simply mathematics, whereas physical products have to cope with
+the perversity of matter. And lots of unexpected things will happen, we
+have models to try to predict what will happen with physical systems, but
+they're not guaranteed to be right.
+
+With software you're using mathematical constructs, and they do what
+they're defined to do, and if they don't then you go to the compiler
+developer, and you say, “There's a bug in your compiler. Fix it so that
+this construct does what is supposed to do.”
+
+You can't do that to the physical world, but you can do that to the
+compiler developer. Because of this it's easier to design software, but
+people push every ability to its limit. So you give people an easier kind
+of design, and they make bigger systems.
+
+So with software, a few people in a few years can design something that has
+a million elements in its design. That would be a mega-project if it had to
+be made with physical matter. So you make the system so complicated, and
+it's going to have lots of ideas in it, and that means that it's going to
+infringe lots of patents or at least be accused of infringing lots of
+patents.
+
+In other words, the burden of the patent system on software is much higher
+that it is on anything else. All software developers are in danger, and
+what you see with the patent wars that have broken out in the past year or
+so is if you develop a big complicated software package you're going to be
+sued.  How is it different, say, to the patent for a drug?
+
+Patents on medicine are another special case. Because when you force poor
+countries to have patents on medicines, which is what the World Trade
+Organization does, that makes medicine so expensive that people can't
+afford it and they die.
+
+The people who founded the WTO and its executives should be sent to the
+Hague to be tried for mass murder. We should organize to demand that our
+governments stop their support for the WTO; there are thousands of reasons
+for that. That organization's purpose is to give business more power to
+turn democracy into a sham.
+
+All so-called “free trade treaties” are actually aimed to weaken democracy
+and transfer political power to business. Therefore in the name of
+democracy we must abolish those treaties. There are good arguments that
+international trade can make both countries wealthier, and if these
+countries are democratic enough that the wealth will spread to everyone in
+both countries then they really are better off. However, the so-called
+“free trade treaties” are designed to make the countries less democratic
+and ensure that the wealth won't spread around.
+
+That means that they cancel out whatever benefit they might produce even if
+the GNP of both countries increases. What good is that if the increases all
+go to the rich, which is what they've done in the US at least since 1980.
+These patent wars have seen companies buying up an arsenal of software
+patents just to protect themselves from litigation…
+
+You know they might be, but it could be that Google has fewer patents
+because it hasn't existed so long. This may be one case where they're not
+all in the same position and not all interdependent, and if so, that would
+be unfortunate, because after all Android is the only smartphone operating
+system still in use that is mostly free software, and that at least gives
+us a starting point to try to run phones without proprietary software.
+
+If Android becomes dangerous and is crushed by patents, then we might never
+be able to run smartphones with free software.  Google is about to buy
+Motorola, which is not doing great financially, just in order to get access
+to its patents.
+
+This shows how the patent system becomes an obstruction to progress. When
+there are enough patents applying to one product it becomes hard to cope
+with the patent system at all. I hope that they (Google) succeed that way,
+in protecting themselves, because by doing so they are to some extent
+sheltering the free software community as well.  Do you believe in the
+complete abolition of software patents?
+
+Right, patents should not apply to software. Keep in mind that you can't
+always classify patents as either software patents or non-software patents.
+Sometimes the same patent will apply both to programs and to circuits. What
+I recommend is to change the law to say “by definition, if it's a program,
+it does not infringe any patents.”
+
+P2P File Sharing and the Music/Film Industry
+
+You've often spoken against the use of the word “piracy”.
+
+    It's a smear term! They want to say that sharing is the moral equivalent of
+    attacking ships. I don't agree with that position, so I don't call sharing
+    “piracy”. I call it “sharing”.
+
+    I am not against profit in general. I'm against mistreating people. Any
+    given way of doing business may or may not involve mistreating people.
+
+    The example of the struggling artist is a ridiculous example because the
+    existing system does very little for struggling artists. It's lousy. And if
+    we just legalize sharing it won't make any difference to struggling
+    artists. It might even help them.
+
+    I think artists should release music with licenses that explicitly permit
+    sharing, and some of them do. The point is that this argument against
+    sharing is bogus.
+
+    These giant multinational companies want more money for themselves, and
+    they use the artist as an excuse. Little bit trickles down to the artists,
+    and then there are few stars that get treated very well. But we don't need
+    to make them richer.  People should have the right to non-commercially
+    share and redistribute music?
+
+    Music and any published work. Because sharing is good, sharing builds
+    community, so sharing must be legal, now that sharing is feasible and easy.
+
+    Fifty years ago making copies and redistributing them non-commercially was
+    so hard that it didn't matter whether it was legal or not. But now that
+    it's so easy, to stop people from doing it can only be achieved using
+    nasty, draconian measures, and even those don't always work.
+
+    But, I guess, when they get nasty enough they may work, but why should we
+    tolerate such nastiness?  The music and film industry campaigned very hard
+    on PIPA, SOPA, and ACTA.
+
+    They want unjust laws all around the world, and in some countries they've
+    succeeded getting them. I read that Ireland adopted a law similar to SOPA,
+    at least described that way, but I don't know any details yet.
+
+    These laws are an injustice. They are meant to subject people more to the
+    media companies, so of course they're wrong, of course people hate them.
+    The only question is; is there enough democracy left in any given country
+    for people to be able to stop them?
+
+    European citizens should take action and organize with others so as to get
+    your country not to ratify ACTA and convince the European Parliament to
+    vote it down. Save the world from that injustice.  Recently government
+    agencies acted to shut down a few sites, such as Mega-Upload.
+
+    I don't know whether Mega-Upload ultimately would deserve to be shut down.
+    Remember Mega-Upload is a business, not an example of sharing. Sharing
+    means non-commercial redistribution of exact copies. So I don't have a
+    conclusion about Mega-Upload in particular.
+
+    I do think there was something outrageous about the way it was shut down,
+    before a court got to decide whether it's legal or not. But meanwhile
+    there's been a law suit against (I guess it's called) Hotfile and the
+    plaintiffs are claiming that “this has to be bad because it's similar to
+    Mega-Upload which we shut down.” Which is a swindle because no court has
+    decided whether Mega-Upload was legal. So they're citing this premature
+    shutdown as proof that it's bad.
+
+    I don't know, maybe it is bad. That's not the issue I'm strongly concerned
+    with. I'm more concerned with peer-to-peer sharing because that's clearly
+    good.
+
+On Privacy
+
+What about services like Facebook and Gmail?
+
+    There are many issues of freedom in life, and having control of your
+    computing is my contribution—I hope—to the idea of what human rights are.
+    There are many other human rights people deserve, and many of them that
+    apply in other areas of life carry over to the virtual world.
+
+    So for instance, what are the bad things about Facebook? Well, it gives
+    people a false impression of privacy. It lets you think that you can
+    designate something as to be seen only by your friends, not realizing that
+    it's actually to be seen by your Facebook friends and not your actual
+    friends. And any of them could publish it, so it could be seen by anybody;
+    it could be published in the newspaper. Facebook can't prevent that.
+
+    What it could do is warn the users every time they start a session “Watch
+    out, anything you post here—even if you say that only certain people should
+    see it—it could get published due to events beyond your control. So think
+    twice about anything you are going to post here. And remember that, the
+    next time you try to apply for a job, the company might demand that you
+    show everything in your account. Your school might also demand this. And if
+    you really want your communication to be private, do not send it this way.”
+    That's one thing that they should do.
+
+    Facebook is a surveillance engine and collects tremendous amounts of
+    personal data, and its business model is to abuse that data. So you
+    shouldn't use Facebook at all.
+
+    And worse than that, Facebook even does surveillance on people that don't
+    have Facebook accounts. If you see a “Like” button in a page then Facebook
+    knows that your computer visited that page. And it's not the only company
+    that's doing this; I believe that Twitter does this and Google+ does this,
+    so it's a practice that's being imitated. And it's wrong no matter who does
+    it.
+
+    The other thing that Facebook does, is that it uses people's pictures in
+    commercial advertisement and gives them no way to refuse.  Eric Schmidt of
+    Google fame said a couple of years ago that if you have something you don't
+    want anyone to know, maybe you shouldn't be doing it.
+
+    That's ridiculous. What kind of things would you not anyone to know?
+
+    Maybe you are planning a protest. It is common nowadays for governments to
+    label dissidents as terrorists and use electronic surveillance on them to
+    sabotage their protests in order to effectively sabotage democracy.  These
+    social media also claim that they have had a very strong, subversive role
+    in the Middle-East uprisings.
+
+    Maybe they do, but remember that these are not located in these
+    Middle-Eastern countries so they have no strong motive to care to those
+    governments.
+
+    When, say, the US government wants to crush dissent these companies are
+    likely to volunteer to help. If they don't, they will be compelled to
+    anyway.  You're also known to not use a mobile phone in order to protect
+    your privacy.
+
+    Of course. Every mobile phone is a tracking and surveillance device. You
+    could stop your phone from transmitting your GPS location if you've got a
+    phone that's controlled by free software, although those are very few.
+    Still the system can determine pretty accurately where the phone is even
+    without any active cooperation from the phone.
+
+    The US government says it should be able to collect all that information
+    without even a warrant. Not even a court order, that is. So that shows how
+    much US government respects human rights.  Some people have been using TOR
+    and other software to hide their identities online.
+
+    TOR is a very good thing. It helps protect people from Big Brother. And by
+    Big Brother I mean perhaps the government of Iran or Syria or the US or any
+    other country that doesn't recognize human rights.
+
+Part two
+
+The second part of the interview is about free software and its functions.
+
+In the second part of the interview we started off by speaking about free
+software and asked for a definition.
+
+Free software means software that respects user's freedom and user's community.
+With software there are just two possibilities; either the user controls the
+program or the program controls the users.
+
+The first case is free software because, in order for the users to have
+effective control of the programs, we need certain freedoms. Those freedoms are
+the criteria of free software.
+
+If the users don't control the program, then the program controls the users,
+and the developer controls the program. That means that program is an
+instrument of unjust power.
+
+So free software is software that respects user's freedom, and the idea of the
+free software movement is: nonfree software is an injustice, let's put an end
+to it. First let's escape, and then let's help everyone else escape. Let's put
+an end to that injustice.
+
+And by free of course, you don't just mean just “gratis”, you mean a lot more
+than that.
+
+    I mean “free” as in freedom.  You mentioned that there are certain freedoms
+    that a piece of software should respect in order to be called free. What
+    are these freedoms?
+
+    Freedom zero The freedom to run the program as you wish.  Freedom one The
+    Freedom to study the source code and change it to make the program do your
+    computing the way you wish.  Freedom two The freedom to help others, which
+    means, redistribute exact copies when you wish.  Freedom three The freedom
+    to contribute to your community—the freedom to distribute copies of your
+    modified versions when you wish. (That's assuming that you've made modified
+    version, because not everybody does that.)
+
+And in order to support this you started a foundation, the Free Software
+Foundation.
+
+    Well, remember the goal is not just theoretical. I wanted to make it
+    possible to use a computer in freedom. That's impossible if you're required
+    to use nonfree software, and when I started this in 1983 that was the only
+    way you could make a computer run. It had to have an operating system, and
+    all the operating systems were proprietary, so you had to have nonfree
+    software. (Proprietary means nonfree; they're synonymous.)
+
+    So to make freedom a real option it was necessary to develop a free
+    software operating system. I wanted to make it a real possibility to use a
+    computer and have freedom, and that meant launching a software developing
+    project to develop all the software that you need to have, and that's an
+    operating system called GNU. That's why there was actual work to be done. I
+    wanted to go beyond simply stating a philosophical point in the abstract,
+    and proceed to the practical work of making freedom a real possibility.
+    And why do you feel that it's an inherent right of people to have access to
+    the source code of a program?
+
+    Why should people be free? There are people that don't believe in freedom,
+    and you can't logically argue with them. There's a fundamental difference
+    in values. Once you recognize that having control over your software is the
+    only way to live in freedom and use computers, if you want freedom you've
+    got to insist on free software.  But why is software unlike other products?
+    When a vendor sells a chair he expects… [Stallman interrupts]
+
+    Software isn't like those things. Software does complicated things, and
+    chairs don't. There's no way to design a chair to do things to you and
+    control what you do. You normally sit on a chair and you control how you
+    sit. The chair might be more or less comfortable, but it's not going to
+    move you into a different building or dump you into the street or all sorts
+    of other surprising things that you might not expect. It's not likely to
+    have a needle hidden in it which would inject some kind of drug into you.
+
+    Software, on the other hand, does things far more complicated than that,
+    and proprietary software commonly has malicious features comparable to that
+    needle. In Windows, people have found spy features. There are also back
+    doors which allow those who know how to control them to do things to the
+    user.
+
+    In other words, Microsoft can do absolutely anything to the users of
+    Windows: it has total control over their computers, it can take anything
+    from them, it can sabotage them in any way at all. If you use nonfree
+    programs you are defenseless against its developer, and the developers
+    basically say “you should simply trust us because of course a big
+    corporation like this would never hurt you.” Apart from software, companies
+    today try to interfere with what users can actually store in their devices.
+    One of their tools for controlling the user is by using proprietary e-book
+    formats.
+
+    These are attacks on the traditional freedoms of readers. The example I
+    would use is the Amazon “swindle” (a play on words on Amazon's e-book
+    tablet, the “Kindle”) because that's the one I know the most facts about. I
+    call it the “swindle” because it is set up so that it swindles readers out
+    of the traditional freedoms of readers of books.
+
+    For instance, there is the freedom to own a book, which Amazon says the
+    users can't. They can only get a license to read the book under Amazon's
+    choice of conditions. Then there's the freedom to acquire the book
+    anonymously, which is basically impossible for most well-known books with
+    the “swindle”.
+
+    They're only available from Amazon, and Amazon requires users to identify
+    themselves, as it doesn't allow any way to pay anonymously with cash, the
+    way you could buy a printed book. As a result Amazon maintains a database
+    showing all the books that each user has ever read. That database is a
+    threat to human rights. Then there's the freedom to give the book to
+    someone else, perhaps after reading it, the freedom to lend the book to
+    people when you wish, and the freedom to sell the book to a used book
+    store.
+
+    Amazon eliminates these freedoms, partially by means of digital handcuffs
+    (malicious features in the software designed to restrict users so they
+    can't do these things) and partially through having said that users can't
+    own a book, because Amazon makes them sign a contract saying they won't
+    give away, lend or sell the book. And then there's the freedom to keep the
+    book as long as you wish.  There was an Orwellian twist to the tale…
+
+    Yes, because they deleted thousands of copies of “1984”. That was in 2009.
+    Those copies were authorized copies until the day Amazon decided to delete
+    them. After this, there was a lot of criticism, and so Amazon promised it
+    would never do this again unless ordered to by the state. I do not find
+    that comforting.
+
+    Any one of these makes the “swindle”—an outrageous attack on our freedom
+    and something that we must refuse to use. I don't know all the details
+    about the competitors, but all of them share at least some of these
+    unacceptable characteristics. Except for some where you can only install
+    books that are in documented, non-secret formats.
+
+    Some of them maybe you could buy with cash somewhere if the author is
+    selling copies. But the problem is, for digital books in general, there is
+    no way to buy them for cash, or anonymously, because of the fact that there
+    is no anonymous payment system on the Internet.
+
+    Bitcoin can be used for that, but Bitcoin is somewhat speculative because
+    its value fluctuates. I don't think it has arrived at the point of being a
+    convenient easy, anonymous, digital payment system.
+
+    And it's not inherently anonymous. You can make a Bitcoin payment
+    anonymously but you have to go to some extra trouble. I don't remember the
+    details, but it was complicated enough that I didn't think I would do it. I
+    would just continue not buying things online.  There is another aspect to
+    using nonfree software: you are being a bad neighbor as well.
+
+    When you are asked to promise not to share with other people, what does
+    that mean? You are being asked to betray your community. Now, what's your
+    community? It's the people you know, the people you normally cooperate
+    with. These software licenses invite you to betray the people you normally
+    cooperate with.  People use the terms free & open source indiscriminately,
+    but they are different things.
+
+    The term “open source” was coined in 1998 by people in the free software
+    community. Remember that I started the free software movement in 1983. By
+    1998 we had already achieved a considerable amount, there were many people
+    writing free software and many people using it.
+
+    But not all of them agreed with the philosophy of the free software
+    movement. Many of them, although they liked using and developing free
+    software, considered our philosophy too radical and shocking. They coined a
+    different term so that they could avoid any reference to our philosophy and
+    avoid presenting the issue as a matter of justice versus injustice.
+
+    So that's the purpose of the term “open source”. It's to talk about more or
+    less the same category of software but without presenting it as an ethical
+    issue. They don't say that if a program is not open source then it's an
+    injustice and you must try to escape from it.  You've said in the past that
+    the “the agenda of the free software movement has been subverted and even
+    nearly lost.” Are you referring to cases such as Android (the mobile phone
+    operating system)?
+
+    Android is just one example of the general tendency for most people in a
+    community not to think of this in terms of freedom and justice. “Open
+    source” is a large part of that too.
+
+    And then look at the more than 1000 different distributions of the
+    GNU/Linux OS: there around ten of them which are entirely free software,
+    whose developers keep them free software as a matter of principle, and the
+    other thousand-or-so include nonfree software or steer the user towards
+    nonfree software, which in an instant grants legitimacy to the nonfree
+    software and directly rejects the philosophy of the free software movement.
+
+    And these speak a very loud voice. Most people coming into the community
+    formulate their ideas of what it's all about based on those distributions
+    and from other people who are happy with those, and basically only a
+    minority of the free software community regards nonfree software as an
+    injustice that we shouldn't tolerate. And these views, of course,
+    propagate.
+
+    Strictly speaking Android is free software but it's not complete: in order
+    to actually run a phone you need other software which isn't free. Every
+    Android phone needs some nonfree software too.
+
+    In addition, many of those are “tyrant products” which don't allow users to
+    replace the system. So the software in them may have been made from free
+    source code, but if the user can't replace the software, then those
+    executable programs are not free.  Despite your technical achievements when
+    it comes to coding, one of your greatest hacks was the inception of GNU
+    GPL, a seminal license that influenced a lot of others.
+
+    Well, it's better to say that most other free software licenses were
+    written as reaction against the ideas of GNU GPL.
+
+    You see, the GNU GPL is a copyleft license. Every free software license, in
+    order to be one, has to give you the four freedoms. The only way to get
+    these freedoms is if the work is released under a license that gives them
+    to you.
+
+    Copyright law today has been made too restricted, everything is copyrighted
+    by default. Therefore the only way a program can be free is if the
+    copyright holders put on a formal declaration that gives the four freedoms.
+    This formal declaration is what we call a free software license.
+
+    There are many ways to do that. Copyleft says that there is a condition
+    placed on freedoms two and three (remember those were the freedoms to
+    distribute exact copies and copies of your modified versions). The
+    condition which is copyleft says that when you're distributing them, you
+    have to do it respecting the same freedoms for the next person.
+
+    So people who get copies from you, whether they're modified or not, must
+    get the same four freedoms. If you put some of this code into another
+    program with other code so that you've made changes, the conditions say
+    that that entire program must give people the four freedoms, so you cannot
+    convert the code into effectively proprietary with the excuse that you've
+    made some changes in it. If you want to use any of this code in your
+    program, you must make your whole program free.
+
+    I did this because I realized that there was a choice: either people would
+    be able to convert my code into nonfree software and use it to subjugate
+    others, perhaps by making changes in it, or I would stop them from doing
+    that.
+
+    I realized then, if I didn't stop them, then my code would be converted to
+    nonfree software, users would get my code, but they wouldn't get freedom,
+    and that would be self defeating, it would defeat the whole purpose of
+    writing the code, which was to make a system that they could use in
+    freedom.
+
+    So I invented a way to prevent that, and that way is copyleft.  And how do
+    these ideas of copyleft translate in today's world of web services and so
+    called “cloud computing”?
+
+    These issues apply to a program, which is a work you can have a copy of;
+    but a service isn't something you get a copy of, so these issues don't
+    apply to it.
+
+    On the other hand, when you're doing your own computing you must not use
+    any web service to do that, because if you do so you lose control of that
+    computing. If your computing is done on somebody else's server, he controls
+    it and you don't.
+
+    So the general issue that the user should have control on their computing
+    does apply to web services but in a different way.  Despite it's practical
+    advantages there isn't yet mass migration to free software in the public
+    sector.
+
+    Proprietary software developers have lots of money. They use that money to
+    buy governments. There are two ways that they can use money to influence
+    governments.
+
+    One way is by bribing specific officials. That's typically illegal but in
+    many countries they can do it anyway.
+
+    The other way is bribing the state itself or some other jurisdiction, and
+    that's not illegal, but it is equally corrupt.  Despite being in dire
+    financial straights, there is no national policy in Greece regarding the
+    use of free software in the public sector.
+
+    I don't want to focus narrowly on the agendas of possibly saving money
+    because that's a secondary reason. The real reason why the Greek and any
+    other government should insist on using free software is to have control of
+    its own computing, in other words, its information and computing
+    sovereignty. And this is worth spending money for.  Let's talk a bit about
+    the role that free software should have in education. There's been a lot of
+    debate recently.
+
+    Schools must teach exclusively free software because schools have a social
+    mission: to educate good citizens for a strong, capable, independent,
+    cooperating and free society. In the computing field that means teaching
+    people to be skilled free software users.
+
+    Teaching the proprietary program is implanting dependence. Why do you think
+    many software companies hand gratis copies of their nonfree programs to
+    schools? Because they want schools to spread this dependence. That's the
+    opposite of the social mission of schools, they shouldn't do it.
+
+    It's like giving students addictive drugs. The companies that make these
+    drugs would love the schools to do that, but it's the school's
+    responsibility to refuse even if the drugs are gratis. But there is a
+    deeper reason too: for education and citizenship.
+
+    Schools are supposed to teach not just facts and skills, but also the
+    spirit of good will. A habit of helping others. Every class should have
+    this rule: “Students, if you bring software to class you may not keep it
+    for yourself. You must share copies with the rest of the class, including
+    the source code, in case someone here wants to learn about that software.
+    Which means bringing nonfree software to class is not permitted.” For the
+    school to set a good example, it must follow its own rule: it should bring
+    only free software and share copies with everyone in the class.
+
+    There is also another reason, for the sake of education, specifically
+    education of the best programmers. For natural born programmers to become
+    good programmers, they need to read lots of code and write lots of code.
+    Only free software gives you the chance to read the code of large programs
+    that people really use. Then you have to write lots of code. Which means
+    you've got to write code in large programs.
+
+    You have to start small. That doesn't mean writing small programs, because
+    small programs do not even start to present the difficulties of large
+    programs. So the way you start small is by writing small changes in
+    existing large programs, and only free software gives you the chance to do
+    that.
+
+    So, for several reasons, doing an ethical and good education means doing
+    education with free software and only free software. There are many who
+    say, “Let's give the children Windows and the GNU+Linux system so that they
+    can learn both.” This is like saying “let's give children at lunchtime some
+    whiskey or ouzo as well as water, so they can learn both.”
+
+    The school is supposed to teach good habits, not addiction, not dependence.
+    Microsoft knows that if you deliver computer with Windows and GNU+Linux,
+    most of the kids in their families see Windows in use, so they are going to
+    mostly use Windows.
+
+    We need to change that, that's a bad habit of society, it's dependence. A
+    school should actively put an end to that dependence. They should redirect
+    society down to a path where people have freedom.
+
+    But remember, the problem we want to correct is bigger than Microsoft.
+    Apple is actually nastier than Microsoft, and it seems to be having a very
+    disappointing success in the area of mobile devices with the iThings.
+
+    And remember that the iThings pioneered a tyrannical practice that
+    Microsoft only tried afterwards. That is designing products as jails, so
+    that users can't even choose what applications to install freely, they can
+    only install programs that have been approved by the dictator.
+
+    And the horrible thing is that the evil genius Steve Jobs found a way to
+    make lots of people clamor to be imprisoned by these products. He made
+    jails and made them so shiny that people want to be locked up.
+
+    There's been a tremendous PR industry keen to make him sound good, and
+    Apple was working very hard to take advantage of his death. Of course
+    Apple's PR worked while he was alive also, and there seem to be a lot of
+    people in magazines and newspapers who want to direct the public attention
+    away from these issues of freedom.  Speaking of education, when you were
+    part of the MIT AI Lab, you were part of a community. This was eventually
+    broken up and you were the only one to go against the trend and not work
+    for a big company developing proprietary software. What gave you the
+    strength to fight, alone, like a guerrilla in the mountains?
+
+    I was alone already. The community I've been part of had already split up
+    in a rather hostile fashion. So I was most definitely alone no matter what
+    I was going to do.
+
+    But the other thing was that the revulsion of my mind to the idea of using
+    and developing proprietary software meant that that was even worse. I had
+    no alternative that would lead to a life I wouldn't be ashamed of and
+    disgusted with.  What were your major influences in your upbringing and
+    education would you credit for influencing your belief system?
+
+    I don't know. I guess the ideas of free software were formulated from the
+    community around me at MIT, because we practiced free software, and they
+    were doing that before I joined them.
+
+    What was different for me was that whereas the others liked doing free
+    software, but they were willing to do nonfree software when that was
+    somehow more convenient or satisfied other goals such as to make the
+    software successful or whatever.
+
+    For me that was the thing that made it good rather than bad, and it was
+    useless to throw that away. But it took years for me to formulate those
+    ideas, something like ten years. In the mid-70's, even late 70's, I still
+    hadn't reached the conclusion that nonfree software was simply unjust.
+    You've described yourself as a pessimist so I won't ask you to look into
+    your crystal ball…
+
+    I wouldn't see anything, anyway. The future depends on you. If I could tell
+    you what's going to happen then it would be futile for you to try to change
+    it.  So, what software projects or social movements are you excited to see
+    emerging?
+
+    At the moment there isn't an existing software project that's making me
+    excited, but I'm trying to convince someone to work on a particular, rather
+    specialized piece of free software that is the last thing we need in order
+    to make the use of ATI video accelerators possible in the Free World.
+
+    As for social movements, I'm very excited by the Occupy movement, by the
+    opposition to austerity in Greece and Spain, and the movements against
+    corporate tax-evasion, and basically I'm excited to see more people
+    fighting against the domination of society by the rich few.
+
+Introduction
+
+Projects with the goal of digital inclusion are making a big assumption. They
+are assuming that participating in a digital society is good, but that's not
+necessarily true. Being in a digital society can be good or bad, depending on
+whether that digital society is just or unjust. There are many ways in which
+our freedom is being attacked by digital technology. Digital technology can
+make things worse, and it will, unless we fight to prevent it.
+
+Therefore, if we have an unjust digital society, we should cancel these
+projects for digital inclusion and launch projects for digital extraction. We
+have to extract people from digital society if it doesn't respect their
+freedom, or we have to make it respect their freedom.  Surveillance
+
+What are the threats? First, surveillance. Computers are Stalin's dream: they
+are ideal tools for surveillance, because anything we do with computers, the
+computers can record. They can record the information in a perfectly indexed
+searchable form in a central database, ideal for any tyrant who wants to crush
+opposition.
+
+Surveillance is sometimes done with our own computers. For instance, if you
+have a computer that's running Microsoft Windows, that system is doing
+surveillance. There are features in Windows that send data to some server, data
+about the use of the computer. A surveillance feature was discovered in the
+iPhone a few months ago, and people started calling it the “spy-phone.” Flash
+player has a surveillance feature too, and so does the Amazon “Swindle.” They
+call it the Kindle, but I call it “the Swindle,” l'escroc, because it's meant
+to swindle users out of their freedom. It makes people identify themselves
+whenever they buy a book, and that means Amazon has a giant list of all the
+books each user has read. Such a list must not exist anywhere.
+
+Most portable phones will transmit their location, computed using GPS, on
+remote command. The phone company is accumulating a giant list of places that
+the user has been. A German MP in the Green Party [correction: Malte Spitz is
+on the staff of the Green Party, not an elected official] asked the phone
+company to give him the data it had about where he was. He had to sue, he had
+to go to court to get this information. And when he got it, he received
+forty-four thousand location points for a period of six months! That's more
+than two hundred per day! What that means is someone could form a very good
+picture of his activities just by looking at that data.
+
+We can stop our own computers from doing surveillance on us if we have control
+of the software that they run. But the software these people are running, they
+don't have control over. It's nonfree software, and that's why it has malicious
+features such as surveillance. However, the surveillance is not always done
+with our own computers, it's also done at one remove. For instance ISPs in
+Europe are required to keep data about the user's Internet communications for a
+long time, in case the State decides to investigate that person later for
+whatever imaginable reason.
+
+With a portable phone… even if you can stop the phone from transmitting your
+GPS location, the system can determine the phone's location approximately, by
+comparing the time when the signals arrive at different towers. So the phone
+system can do surveillance even without special cooperation from the phone
+itself.
+
+Likewise, the bicycles that people rent in Paris. Of course the system knows
+where you get the bicycle and it knows where you return the bicycle, and I've
+heard reports that it tracks the bicycles as they are moving around as well. So
+they are not something we can really trust.
+
+But there are also systems that have nothing to do with us that exist only for
+tracking. For instance, in the UK all car travel is monitored. Every car's
+movements are being recorded in real time and can be tracked by the State in
+real time. This is done with cameras on the side of the road.
+
+Now, the only way we can prevent surveillance that's done at one remove or by
+unrelated systems is through political action against increased government
+power to track and monitor everyone, which means of course we have to reject
+whatever excuse they come up with. For doing such systems, no excuse is
+valid—to monitor everyone.
+
+In a free society, when you go out in public, you are not guaranteed anonymity.
+It's possible for someone to recognize you and remember. And later that person
+could say that he saw you at a certain place. But that information is diffuse.
+It's not conveniently assembled to track everybody and investigate what they
+did. To collect that information is a lot of work, so it's only done in special
+cases when it's necessary.
+
+But computerized surveillance makes it possible to centralize and index all
+this information so that an unjust regime can find it all, and find out all
+about everyone. If a dictator takes power, which could happen anywhere, people
+realize this and they recognize that they should not communicate with other
+dissidents in a way that the State could find out about. But if the dictator
+has several years of stored records of who talks with whom, it's too late to
+take any precautions then, because he already has everything he needs to
+realize: “OK, this guy is a dissident, and he spoke with him. Maybe he is a
+dissident too. Maybe we should grab him and torture him.”
+
+So we need to campaign to put an end to digital surveillance now. You can't
+wait until there is a dictator and it would really matter. And besides, it
+doesn't take an outright dictatorship to start attacking human rights.
+
+I wouldn't quite call the government of the UK a dictatorship. It's not very
+democratic, and one way it crushes democracy is using surveillance. A few years
+ago, people believed to be on their way to a protest, they were going to
+protest, they were arrested before they could get there because their car was
+tracked through this universal car tracking system.  Censorship
+
+The second threat is censorship. Censorship is not new, it existed long before
+computers. But 15 years ago, we thought that the Internet would protect us from
+censorship, that it would defeat censorship. Then, China and some other obvious
+tyrannies went to great lengths to impose censorship on the Internet, and we
+said: “Well that's not surprising, what else would governments like that do?”
+
+But today we see censorship imposed in countries that are not normally thought
+of as dictatorships, such as for instance the UK, France, Spain, Italy,
+Denmark…
+
+They all have systems of blocking access to some websites. Denmark established
+a system that blocks access to a long list of web pages, which was secret. The
+citizens were not supposed to know how the government was censoring them, but
+the list was leaked and posted on WikiLeaks. At that point, Denmark added the
+WikiLeaks page to its censorship list. So, the whole rest of the world can find
+out how Danes are being censored, but Danes are not supposed to know.
+
+A few months ago, Turkey, which claims to respect some human rights, announced
+that every Internet user would have to choose between censorship and more
+censorship. Four different levels of censorship they get to choose! But freedom
+is not one of the options.
+
+Australia wanted to impose filtering on the Internet, but that was blocked.
+However Australia has a different kind of censorship: it has censorship of
+links. That is, if a website in Australia has a link to some censored site
+outside Australia, the one in Australia can be punished. Electronic Frontiers
+Australia, that is an organization that defends human rights in the digital
+domain in Australia, posted a link to a foreign political website. It was
+ordered to delete the link or face a penalty of $11,000 a day. So they deleted
+it, what else could they do? This is a very harsh system of censorship.
+
+In Spain, the censorship that was adopted earlier this year allows officials to
+arbitrarily shut down an Internet site in Spain, or impose filtering to block
+access to a site outside of Spain. And they can do this without any kind of
+trial. This was one of the motivations for the Indignados, who have been
+protesting in the street.
+
+There were protests in the street in Turkey as well, after that announcement,
+but the government refused to change its policy.
+
+We must recognize that a country that imposes censorship on the Internet is not
+a free country. And is not a legitimate government either.  Restricted data
+formats
+
+The next threat to our freedom comes from data formats that restrict users.
+
+Sometimes it's because the format is secret. There are many application
+programs that save the user's data in a secret format, which is meant to
+prevent the user from taking that data and using it with some other program.
+The goal is to prevent interoperability.
+
+Now, evidently, if a program implements a secret format, that's because the
+program is not free software. So this is another kind of malicious feature.
+Surveillance is one kind of malicious feature that you find in some nonfree
+programs; using secret formats to restrict the users is another kind of
+malicious feature that you also find in some nonfree programs.
+
+But if you have a free program that handles a certain format, ipso facto that
+format is not secret. This kind of malicious feature can only exist in a
+nonfree program. Surveillance features, well, theoretically they could exist in
+a free program but you don't find them happening. Because the users would fix
+it, you see. The users wouldn't like this, so they would fix it.
+
+In any case, we also find secret data formats in use for publication of works.
+You find secret data formats in use for audio, such as music, for video, for
+books… And these secret formats are known as Digital Restrictions Management,
+or DRM, or digital handcuffs (les menottes numériques).
+
+So, the works are published in secret formats so that only proprietary programs
+can play them, so that these proprietary programs can have the malicious
+feature of restricting the users, stopping them from doing something that would
+be natural to do.
+
+And this is used even by public entities to communicate with the people. For
+instance Italian public television makes its programs available on the net in a
+format called VC-1, which is a standard supposedly, but it's a secret standard.
+Now I can't imagine how any publicly supported entity could justify using a
+secret format to communicate with the public. This should be illegal. In fact I
+think all use of Digital Restrictions Management should be illegal. No company
+should be allowed to do this.
+
+There are also formats that are not secret but almost might as well be secret,
+for instance Flash. Flash is not actually secret but Adobe keeps making new
+versions, which are different, faster than anyone can keep up and make free
+software to play those files; so it has almost the same effect as being secret.
+
+Then there are the patented formats, such as MP3 for audio. It's bad to
+distribute audio in MP3 format. There is free software to handle MP3 format, to
+play it and to generate it, but because it's patented in many countries, many
+distributors of free software don't dare include those programs; so if they
+distribute the GNU+Linux system, their system doesn't include a player for MP3.
+As a result if anyone distributes some music in MP3, that's putting pressure on
+people not to use GNU/Linux. Sure, if you're an expert you can find a free
+software and install it, but there are lots of non experts, and they might see
+that they installed a version of GNU/Linux which doesn't have that software,
+and it won't play MP3 files, and they think it's the system's fault. They don't
+realize it's MP3's fault. But this is the fact.
+
+Therefore, if you want to support freedom, don't distribute MP3 files. That's
+why I say if you're recording my speech and you want to distribute copies,
+don't do it in a patented format such as MPEG-2, or MPEG-4, or MP3. Use a
+format friendly to free software, such as the OGG formats or WebM. And by the
+way, if you are going to distribute copies of the recording, please put on it
+the Creative Commons, No Derivatives license. This is a statement of my
+personal views. If it were a lecture for a course, if it were didactic, then it
+ought to be free, but statements of opinion are different.  Software that isn't
+free
+
+Now this leads me to the next threat which comes from software that the users
+don't have control over. In other words, software that isn't free, that is not
+libre. In this particular point French is clearer than English. The English
+word “free” means libre and gratuit, but what I mean when I say “free software”
+is logiciel libre. I don't mean gratuit. I'm not talking about price. Price is
+a side issue, just a detail, because it doesn't matter ethically. You know, if
+I have a copy of a program and I sell it to you for one euro or a hundred
+euros, who cares? Right? Why should anyone think that's good or bad? Or suppose
+I gave it to you gratuitement… Still, who cares? But whether this program
+respects your freedom, that's important!
+
+So free software is software that respects users' freedom. What does this mean?
+Ultimately there are just two possibilities with software: either the users
+control the program or the program controls the users. If the users have
+certain essential freedoms, then they control the program, and those freedoms
+are the criterion for free software. But if the users don't fully have the
+essential freedoms, then the program controls the users. But somebody controls
+that program and, through it, has power over the users.
+
+So, a nonfree program is an instrument to give somebody power over a lot of
+other people, and this is unjust power that nobody should ever have. This is
+why nonfree software (les logiciels privateurs, qui privent de la liberté), why
+proprietary software is an injustice and should not exist; because it leaves
+the users without freedom.
+
+Now, the developer who has control of the program often feels tempted to
+introduce malicious features to further exploit or abuse those users. He feels
+a temptation because he knows he can get away with it. Because his program
+controls the users and the users do not have control of the program, if he puts
+in a malicious feature, the users can't fix it; they can't remove the malicious
+feature.
+
+I've already told you about two kinds of malicious features: surveillance
+features, such as are found in Windows and the iPhone and Flash player and the
+Swindle, sort of. And there are also features to restrict users, which work
+with secret data formats, and those are found in Windows, Macintosh, the
+iPhone, Flash player, the Amazon Swindle, the Playstation 3 and lots and lots
+of other programs.
+
+The other kind of malicious feature is the backdoor. That means something in
+that program is listening for remote commands and obeying them, and those
+commands can mistreat the user. We know of backdoors in Windows, in the iPhone,
+in the Amazon Swindle. The Amazon Swindle has a backdoor that can delete books,
+remotely delete books. We know this by observation, because Amazon did it: in
+2009 Amazon remotely deleted thousands of copies of a particular book. Those
+were authorized copies, people had obtained them directly from Amazon, and thus
+Amazon knew exactly where they were, which is how Amazon knew where to send the
+commands to delete those books. You know which book Amazon deleted? 1984 by
+George Orwell. [laughter] It's a book everyone should read, because it
+discusses a totalitarian state that did things like delete books it didn't
+like. Everybody should read it, but not on the Amazon Swindle. [laughter]
+
+Anyway, malicious features are present in the most widely used nonfree
+programs, but they are rare in free software, because with free software the
+users have control. They can read the source code and they can change it. So,
+if there were a malicious feature, somebody would sooner or later spot it and
+fix it. This means that somebody who is considering introducing a malicious
+feature does not find it so tempting, because he knows he might get away with
+it for a while but somebody will spot it, will fix it, and everybody will loose
+trust in the perpetrator. It's not so tempting when you know you're going to
+fail. And that's why we find that malicious features are rare in free software,
+and common in proprietary software.  The four freedoms of free software
+
+The essential freedoms are four:
+
+    Freedom 0 is the freedom to run the program as you wish.  Freedom 1 is the
+    freedom to study the source code and change it, so the program does your
+    computing the way you wish.  Freedom 2 is the freedom to help others.
+    That's the freedom to make exact copies and redistribute them when you
+    wish.  Freedom 3 is the freedom to contribute to your community. That's the
+    freedom to make copies of your modified versions, if you have made any, and
+    then distribute them to others when you wish.
+
+These freedoms, in order to be adequate, must apply to all activities of life.
+For instance if it says “this is free for academic use,” it's not free. Because
+that's too limited. It doesn't apply to all areas of life. In particular, if a
+program is free, that means it can be modified and distributed commercially,
+because commerce is an area of life, an activity in life. And this freedom has
+to apply to all activities.
+
+However, it's not obligatory to do any of these things. The point is you're
+free to do them if you wish, when you wish. But you never have to do them. You
+don't have to do any of them. You don't have to run the program. You don't have
+to study or change the source code. You don't have to make any copies. You
+don't have to distribute your modified versions. The point is you should be
+free to do those things if you wish.
+
+Now, freedom number 1, the freedom to study and change the source code to make
+the program do your computing as you wish, includes something that might not be
+obvious at first. If the program comes in a product, and the developer can
+provide an upgrade that will run, then you have to be able to make your version
+run in that product. If the product will only run the developer's versions, and
+refuses to run yours, the executable in that product is not free software. Even
+if it was compiled from free source code, it's not free because you don't have
+the freedom to make the program do your computing the way you wish. So, freedom
+1 has to be real, not just theoretical. It has to include the freedom to use
+your version, not just the freedom to make some source code that won't run.
+The GNU Project and the Free Software movement
+
+I launched the Free Software movement in 1983, when I announced the plan to
+develop a free software operating system whose name is GNU. Now GNU, the name
+GNU, is a joke; because part of the hacker's spirit is to have fun even when
+you're doing something very serious. Now I can't think of anything more
+seriously important than defending freedom.
+
+But that didn't mean I couldn't give my system a name that's a joke. So GNU is
+a joke because it's a recursive acronym, it stands for “GNU's Not Unix,” so
+G.N.U.: GNU's Not Unix. So the G in GNU stands for GNU.
+
+In fact this was a tradition at the time. The tradition was: if there was an
+existing program and you wrote something similar to it, inspired by it, you
+could give credit by giving your program a name that's a recursive acronym
+saying it's not the other one. So I gave credit to Unix for the technical ideas
+of Unix, but with the name GNU, because I decided to make GNU a Unix-like
+system, with the same commands, the same system calls, so that it would be
+compatible, so that people who used Unix could switch over easily.
+
+But the reason for developing GNU, that was unique. GNU is the only operating
+system, as far as I know, ever developed for the purpose of freedom. Not for
+technical motivations, not for commercial motivations. GNU was written for your
+freedom. Because without a free operating system, it's impossible to have
+freedom and use a computer. And there were none, and I wanted people to have
+freedom, so it was up to me to write one.
+
+Nowadays there are millions of users of the GNU operating system and most of
+them don't know they are using the GNU operating system, because there is a
+widespread practice which is not nice. People call the system “Linux.” Many do,
+but some people don't, and I hope you'll be one of them. Please, since we
+started this, since we wrote the biggest piece of the code, please give us
+equal mention, please call the system “GNU+Linux,” or “GNU/Linux.” It's not
+much to ask.
+
+But there is another reason to do this. It turns out that the person who wrote
+Linux, which is one component of the system as we use it today, he doesn't
+agree with the Free Software movement. And so if you call the whole system
+Linux, in effect you're steering people towards his ideas, and away from our
+ideas. Because he's not gonna say to them that they deserve freedom. He's going
+to say to them that he likes convenient, reliable, powerful software. He's
+going to tell people that those are the important values.
+
+But if you tell them the system is GNU+Linux—it's the GNU operating system plus
+Linux the kernel—then they'll know about us, and then they might listen to what
+we say: you deserve freedom. And since freedom will be lost if we don't defend
+it—there's always going to be a Sarkozy to take it away—we need above all to
+teach people to demand freedom, to be ready to stand up for their freedom the
+next time someone threatens to take it away.
+
+Nowadays, you can tell who doesn't want to discuss these ideas of freedom
+because they don't say logiciel libre. They don't say libre, they say “open
+source.” That term was coined by the people like Mr Torvalds who would prefer
+that these ethical issues don't get raised. And so the way you can help us
+raise them is by saying libre. You know, it's up to you where you stand, you're
+free to say what you think. If you agree with them, you can say open source. If
+you agree with us, show it, say libre!  Free software and education
+
+The most important point about free software is that schools must teach
+exclusively free software. All levels of schools from kindergarten to
+university, it's their moral responsibility to teach only free software in
+their education, and all other educational activities as well, including those
+that say that they're spreading digital literacy. A lot of those activities
+teach Windows, which means they're teaching dependence. To teach people the use
+of proprietary software is to teach dependence, and educational activities must
+never do that because it's the opposite of their mission. Educational
+activities have a social mission to educate good citizens of a strong, capable,
+cooperating, independent and free society. And in the area of computing, that
+means: teach free software; never teach a proprietary program because that's
+inculcating dependence.
+
+Why do you think some proprietary developers offer gratis copies to schools?
+They want the schools to make the children dependent. And then, when they
+graduate, they're still dependent and, you know, the company is not going to
+offer them gratis copies. And some of them get jobs and go to work for
+companies. Not many of them anymore, but some of them. And those companies are
+not going to be offered gratis copies. Oh no! The idea is: if the school
+directs the students down the path of permanent dependence, they can drag the
+rest of society with them into dependence. That's the plan! It's just like
+giving the school gratis needles full of addicting drugs, saying: “Inject this
+into your students, the first dose is gratis. Once you're dependent, then you
+have to pay.” Well, the school would reject the drugs because it isn't right to
+teach the students to use addictive drugs, and it's got to reject the
+proprietary software also.
+
+Some people say: “Let's have the school teach both proprietary software and
+free software, so the students become familiar with both.” That's like saying:
+“For the lunch let's give the kids spinach and tobacco, so that they become
+accustomed to both.” No! The schools are only supposed to teach good habits,
+not bad ones! So there should be no Windows in a school, no Macintosh, nothing
+proprietary in the education.
+
+But also, for the sake of educating the programmers. You see, some people have
+a talent for programming. At ten to thirteen years old, typically, they're
+fascinated, and if they use a program, they want to know: “How does it do
+this?” But when they ask the teacher, if it's proprietary, the teacher has to
+say: “I'm sorry, it's a secret, we can't find out.” Which means education is
+forbidden. A proprietary program is the enemy of the spirit of education. It's
+knowledge withheld, so it should not be tolerated in a school, even though
+there may be plenty of people in the school who don't care about programming,
+don't want to learn this. Still, because it's the enemy of the spirit of
+education, it shouldn't be there in the school.
+
+But if the program is free, the teacher can explain what he knows, and then
+give out copies of the source code, saying: “Read it and you'll understand
+everything.” And those who are really fascinated, they will read it! And this
+gives them an opportunity to start to learn how to be good programmers.
+
+To learn to be a good programmer, you'll need to recognize that certain ways of
+writing code, even if they make sense to you and they are correct, they're not
+good because other people will have trouble understanding them. Good code is
+clear code that others will have an easy time working on when they need to make
+further changes.
+
+How do you learn to write good clear code? You do it by reading lots of code,
+and writing lots of code. Well, only free software offers the chance to read
+the code of large programs that we really use. And then you have to write lots
+of code, which means you have to write changes in large programs.
+
+How do you learn to write good code for the large programs? You have to start
+small, which does not mean small program, oh no! The challenges of the code for
+large programs don't even begin to appear in small programs. So the way you
+start small at writing code for large programs is by writing small changes in
+large programs. And only free software gives you the chance to do that.
+
+So, if a school wants to offer the possibility of learning to be a good
+programmer, it needs to be a free software school.
+
+But there is an even deeper reason, and that is for the sake of moral
+education, education in citizenship. It's not enough for a school to teach
+facts and skills, it has to teach the spirit of goodwill, the habit of helping
+others. Therefore, every class should have this rule: “Students, if you bring
+software to class, you may not keep it for yourself, you must share copies with
+the rest of the class, including the source code in case anyone here wants to
+learn. Because this class is a place where we share our knowledge. Therefore,
+bringing a proprietary program to class is not permitted.” The school must
+follow its own rule to set a good example. Therefore, the school must bring
+only free software to class, and share copies, including the source code, with
+anyone in the class that wants copies.
+
+Those of you who have a connection with a school, it's your duty to campaign
+and pressure that school to move to free software. And you have to be firm. It
+may take years, but you can succeed as long as you never give up. Keep seeking
+more allies among the students, the faculty, the staff, the parents, anyone!
+And always bring it up as an ethical issue. If someone else wants to sidetrack
+the discussion into this practical advantage and this practical disadvantage,
+which means they're ignoring the most important question, then you have to say:
+“This is not about how to do the best job of educating, this is about how to do
+a good education instead of an evil one. It's how to do education right instead
+of wrong, not just how to make it a little more effective, or less.” So don't
+get distracted with those secondary issues, and ignore what really matters!
+Internet services
+
+So, moving on to the next menace. There are two issues that arise from the use
+of Internet services. One of them is that the server could abuse your data, and
+another is that it could take control of your computing.
+
+The first issue, people already know about. They are aware that, if you upload
+data to an Internet service, there is a question of what it will do with that
+data. It might do things that mistreat you. What could it do? It could lose the
+data, it could change the data, it could refuse to let you get the data back.
+And it could also show the data to someone else you don't want to show it to.
+Four different possible things.
+
+Now, here, I'm talking about the data that you knowingly gave to that site. Of
+course, many of those services do surveillance as well.
+
+For instance, consider Facebook. Users send lots of data to Facebook, and one
+of the bad things about Facebook is that it shows a lot of that data to lots of
+other people, and even if it offers them a setting to say “no,” that may not
+really work. After all, if you say “some other people can see this piece of
+information,” one of them might publish it. Now, that's not Facebook's fault,
+there is nothing they could do to prevent that, but it ought to warn people.
+Instead of saying “mark this as only to your so-called friends,” it should say
+“keep in mind that your so-called friends are not really your friends, and if
+they want to make trouble for you, they could publish this.” Every time, it
+should say that, if they want to deal with people ethically.
+
+As well as all the data users of Facebook voluntarily give to Facebook,
+Facebook is collecting data about people's activities on the net through
+various methods of surveillance. But that's the first menace. For now I am
+talking about the data that people know they are giving to these sites.
+
+Now, losing data is something that could always happen by accident. That
+possibility is always there, no matter how careful someone is. Therefore, you
+need to keep multiple copies of data that matters. If you do that, then, even
+if someone decided to delete your data intentionally, it wouldn't hurt you that
+much, because you'd have other copies of it.
+
+So, as long as you are maintaining multiple copies, you don't have to worry too
+much about someone's losing your data. What about whether you can get it back.
+Well, some services make it possible to get back all the data that you sent,
+and some don't. Google services will let the user get back the data the user
+has put into them. Facebook, famously, does not.
+
+Of course in the case of Google, this only applies to the data the user knows
+Google has. Google does lots of surveillance, too, and that data is not
+included. But in any case, if you can get the data back, then you could track
+whether they have altered it. And they're not very likely to start altering
+people's data if the people can tell. So maybe we can keep a track on that
+particular kind of abuse.
+
+But the abuse of showing the data to someone you don't want it to be shown to
+is very common and almost impossible for you to prevent, especially if it's a
+US company. You see, the most hypocritically named law in US history, the
+so-called USA Patriot Act, says that Big Brother's police can collect just
+about all the data that companies maintain about individuals. Not just
+companies, but other organizations too, like public libraries. The police can
+get this massively, without even going to court. Now, in a country that was
+founded on an idea of freedom, there's nothing more unpatriotic than this. But
+this is what they did. So you mustn't ever trust any of your data to a US
+company. And they say that foreign subsidiaries of US companies are subject to
+this as well. So the company you're directly dealing with may be in Europe, but
+if it's owned by a US company, you've got the same problem to deal with.
+
+However, this is mainly of concern when the data you're sending to the service
+is not for publication. There are some services where you publish things. Of
+course, if you publish something, you know everybody is gonna be able to see
+it. So, there is no way they can hurt you by showing it to somebody who wasn't
+supposed to see it. There is nobody who wasn't supposed to see it, if you
+published it. So in that case the problem doesn't exist.
+
+So these are four sub-issues of this one threat of abusing our data. The idea
+of the Freedom Box project is you have your own server in your own home, and
+when you want to do something remotely, you do it with your own server, and the
+police have to get a court order in order to search your server. So you have
+the same rights this way that you would have traditionally in the physical
+world.
+
+The point here and in so many other issues is: as we start doing things
+digitally instead of physically, we shouldn't lose any of our rights; because
+the general tendency is that we do lose rights.
+
+Basically, Stallman's law says that, in an epoch when governments work for the
+mega-corporations instead of reporting to their citizens, every technological
+change can be taken advantage of to reduce our freedom. Because reducing our
+freedom is what these governments want to do. So the question is: when do they
+get an opportunity? Well, any change that happens for some other reason is a
+possible opportunity, and they will take advantage of it if that's their
+general desire.
+
+But the other issue with Internet services is that they can take control of
+your computing, and that's not so commonly known. But it's becoming more
+common. There are services that offer to do computing for you on data supplied
+by you—things that you should do in your own computer but they invite you to
+let somebody else's computer do that computing work for you. And the result is
+you lose control over it. It's just as if you used a nonfree program.
+
+Two different scenarios, but they lead to the same problem. If you do your
+computing with a nonfree program… well, the users don't control the nonfree
+program, it controls the users, which would include you. So you've lost control
+of the computing that's being done. But if you do your computing in his server…
+well, the programs that are doing it are the ones he chose. You can't touch
+them or see them, so you have no control over them. He has control over them,
+maybe.
+
+If they are free software and he installs them, then he has control over them.
+But even he might not have control. He might be running a proprietary program
+in his server, in which case it's somebody else who has control of the
+computing being done in his server. He doesn't control it and you don't.
+
+But suppose he installs a free program, then he has control over the computing
+being done in his computer, but you don't. So, either way, you don't! So the
+only way to have control over your computing is to do it with your copy of a
+free program.
+
+This practice is called “Software as a Service.” It means doing your computing
+with your data in somebody else's server. And I don't know of anything that can
+make this acceptable. It's always something that takes away your freedom, and
+the only solution I know of is to refuse. For instance, there are servers that
+will do translation or voice recognition, and you are letting them have control
+over this computing activity, which we shouldn't ever do.
+
+Of course, we are also giving them data about ourselves which they shouldn't
+have. Imagine if you had a conversation with somebody through a
+voice-recognition translation system that was Software as as Service and it's
+really running on a server belonging to some company. Well, that company also
+gets to know what was said in the conversation, and if it's a US company that
+means Big Brother also gets to know. This is no good.  Computers for voting
+
+The next threat to our freedom in a digital society is using computers for
+voting. You can't trust computers for voting. Whoever controls the software in
+those computers has the power to commit undetectable fraud.
+
+Elections are special, because there's nobody involved that we dare trust
+fully. Everybody has to be checked, crosschecked by others, so that nobody is
+in a position to falsify the results by himself. Because if anybody is in a
+position to do that, he might do it. So our traditional systems for voting were
+designed so that nobody was fully trusted, everybody was being checked by
+others. So that nobody could easily commit fraud. But once you introduce a
+program, this is impossible.
+
+How can you tell if a voting machine will honestly count the votes? You'd have
+to study the program that's running in it during the election, which of course
+nobody can do, and most people wouldn't even know how to do. But even the
+experts who might theoretically be capable of studying the program, they can't
+do it while people are voting. They'd have to do it in advance, and then how do
+they know that the program they studied is the one that's running while people
+vote? Maybe it's been changed.
+
+Now, if this program is proprietary, that means some company controls it. The
+election authority can't even tell what that program is doing. Well, this
+company then could rig the election. And there are accusations that this was
+done in the US within the past ten years, that election results were falsified
+this way.
+
+But what if the program is free software? That means the election authority who
+owns this voting machine has control over the software in it, so the election
+authority could rig the election. You can't trust them either. You don't dare
+trust anybody in voting, and the reason is, there's no way that the voters can
+verify for themselves that their votes were correctly counted, nor that false
+votes were not added.
+
+In other activities of life, you can usually tell if somebody is trying to
+cheat you. Consider for instance buying something from a store. You order
+something, maybe you give a credit card number. If the product doesn't come,
+you can complain and you can… of course if you've got a good enough memory
+you'll notice if that product doesn't come. You're not just giving total blind
+trust to the store, because you can check. But in elections you can't check.
+
+I saw once a paper where someone described a theoretical system for voting
+which used some sophisticated mathematics so that people could check that their
+votes had been counted, even though everybody's vote was secret, and they could
+also verify that false votes hadn't been added. It was very exciting, powerful
+mathematics; but even if that mathematics is correct, that doesn't mean the
+system would be acceptable to use in practice, because the vulnerabilities of a
+real system might be outside of that mathematics. For instance, suppose you're
+voting over the Internet and suppose you're using a machine that's a zombie. It
+might tell you that the vote was sent for A while actually sending a vote for
+B. Who knows whether you'd ever find out? So, in practice the only way to see
+if these systems work and are honest is through years, in fact decades, of
+trying them and checking in other ways what happened.
+
+I wouldn't want my country to be the pioneer in this. So, use paper for voting.
+Make sure there are ballots that can be recounted.  Speaker's note, added
+subsequently
+
+Remote voting by internet has an inherent social danger, that your boss might
+tell you, “I want you to vote for candidate C, and do it from the computer in
+my office while I watch you.” He does not need to say out loud that you might
+be fired if you do not comply. This danger is not based on a technical flaw, so
+it can't be fixed by fixing the technology.  The war on sharing
+
+The next threat to our freedom in a digital society comes from the war on
+sharing.
+
+One of the tremendous benefits of digital technology is that it is easy to copy
+published works and share these copies with others. Sharing is good, and with
+digital technology, sharing is easy. So, millions of people share. Those who
+profit by having power over the distribution of these works don't want us to
+share. And since they are businesses, governments which have betrayed their
+people and work for the Empire of mega-corporations try to serve those
+businesses, they are against their own people, they are for the businesses, for
+the publishers.
+
+Well, that's not good. And with the help of these governments, the companies
+have been waging war on sharing, and they've proposed a series of cruel
+draconian measures. Why do they propose cruel draconian measures? Because
+nothing less has a chance of success: when something is good and easy, people
+do it, and the only way to stop them is by being very nasty. So of course, what
+they propose is nasty, nasty, and the next one is nastier. So they tried suing
+teenagers for hundreds of thousands of dollars. That was pretty nasty. And they
+tried turning our technology against us, Digital Restrictions Management that
+means, digital handcuffs.
+
+But among the people there were clever programmers too and they found ways to
+break the handcuffs. So for instance, DVDs were designed to have encrypted
+movies in a secret encryption format, and the idea was that all the programs to
+decrypt the video would be proprietary with digital handcuffs. They would all
+be designed to restrict the users. And their scheme worked OK for a while. But
+some people in Europe figured out the encryption and they released a free
+program that could actually play the video on a DVD.
+
+Well, the movie companies didn't leave it there. They went to the US congress
+and bought a law making that software illegal. The United States invented
+censorship of software in 1998, with the Digital Millennium Copyright Act
+(DMCA). So the distribution of that free program was forbidden in the United
+States. Unfortunately it didn't stop with the United States. The European Union
+adopted a directive, in 2003 I believe, requiring such laws. The directive only
+says that commercial distribution has to be banned, but just about every
+country in the European Union has adopted a nastier law. In France, the mere
+possession of a copy of that program is an offense punished by imprisonment,
+thanks to Sarkozy. I believe that was done by the law DADVSI. I guess he hoped
+that with an unpronounceable name, people wouldn't be able to criticize it.
+[laughter]
+
+So, elections are coming. Ask the candidates in the parties: will you repeal
+the DADVSI? And if not, don't support them. You mustn't give up lost moral
+territory forever. You've got to fight to win it back.
+
+So, we still are fighting against digital handcuffs. The Amazon Swindle has
+digital handcuffs to take away the traditional freedoms of readers to do things
+such as: give a book to someone else, or lend a book to someone else. That's a
+vitally important social act. That is what builds society among people who
+read, lending books. Amazon doesn't want to let people lend books freely. And
+then there is also selling a book, perhaps to a used bookstore. You can't do
+that either.
+
+It looked for a while as if DRM had disappeared on music, but now they're
+bringing it back with streaming services such as Spotify. These services all
+require proprietary client software, and the reason is so they can put digital
+handcuffs on the users. So, reject them! They already showed quite openly that
+you can't trust them, because first they said: “You can listen as much as you
+like.” And then they said: “Oh, no! You can only listen a certain number of
+hours a month.” The issue is not whether that particular change was good or
+bad, just or unjust; the point is, they have the power to impose any change in
+policies. So don't let them have that power. You should have your own copy of
+any music you want to listen to.
+
+And then came the next assault on our freedom: HADOPI, basically punishment on
+accusation. It was started in France but it's been exported to many other
+countries. The United States now demand such unjust policies in its free
+exploitation treaties. A few months ago, Colombia adopted such a law under
+orders from its masters in Washington. Of course, the ones in Washington are
+not the real masters, they're just the ones who control the United States on
+behalf of the Empire. But they're the ones who also dictate to Colombia on
+behalf of the Empire.
+
+In France, since the Constitutional Council objected to explicitly giving
+people punishment without trial, they invented a kind of trial which is not a
+real trial, it's just a form of a trial, so they can pretend that people have a
+trial before they're punished. But in other countries they don't bother with
+that, it's explicit punishment on accusation only. Which means that for the
+sake of their war on sharing, they're prepared to abolish the basic principles
+of justice. It shows how thoroughly anti-freedom anti-justice they are. These
+are not legitimate governments.
+
+And I'm sure they'll come up with more nasty ideas because they're paid to
+defeat the people no matter what it takes. Now, when they do this, they always
+say that it's for the sake of the artists, that they have “protect” the
+“creators.” Now those are both propaganda terms. I am convinced that the reason
+they love the word “creators” is because it is a comparison with a deity. They
+want us to think of artists as super-human, and thus deserving special
+privileges and power over us, which is something I disagree with.
+
+In fact though, the only artists that benefit very much from this system are
+the big stars. The other artists are getting crushed into the ground by the
+heels of these same companies. But they treat the stars very well, because the
+stars have a lot of clout. If a star threatens to move to another company, the
+company says: “Oh, we'll give you what you want.” But for any other artist they
+say: “You don't matter, we can treat you any way we like.”
+
+So the superstars have been corrupted by the millions of dollars or euros that
+they get, to the point where they'll do almost anything for more money. For
+instance, J. K. Rowling is a good example. J. K. Rowling, a few years ago, went
+to court in Canada and obtained an order that people who had bought her books
+must not read them. She got an order telling people not to read her books!
+
+Here's what happened. A bookstore put the books on display for sale too early,
+before the date they were supposed to go on sale. And people came into the
+store and said: “Oh, I want that!” And they bought it and took away their
+copies. And then, they discovered the mistake, so they took the copies off of
+display. But Rowling wanted to crush any circulation of any information from
+those books, so she went to court, and the court ordered those people not to
+read the books that they now owned.
+
+In response, I call for a total boycott of Harry Potter. But I don't say you
+shouldn't read those books or watch the movies, I only say you shouldn't buy
+the books or pay for the movies. [laughter] I leave it to Rowling to tell
+people not to read the books. As far as I am concerned, if you borrow the book
+and read it, that's OK. [laughter] Just don't give her any money! But this
+happened with paper books. The court could make this order but it couldn't get
+the books back from the people who had bought them. Imagine if they were
+ebooks. Imagine if they were ebooks on the Swindle. Amazon could send commands
+to erase them.
+
+So, I don't have much respect for stars who will go to such lengths for more
+money. But most artists aren't like that, they never got enough money to be
+corrupted. Because the current system of copyright supports most artists very
+badly. And so, when these companies demand to expand the war on sharing,
+supposedly for the sake of the artists, I'm against what they want but I would
+like to support the artists better. I appreciate their work and I realize if we
+want them to do more work we should support them.  Supporting the arts
+
+I have two proposals for how to support artists, methods that are compatible
+with sharing, that would allow us to end the war on sharing and still support
+artists.
+
+One method uses tax money. We get a certain amount of public funds to
+distribute among artists. But, how much should each artist get? Well, we have
+to measure popularity. You see, the current system supposedly supports artists
+based on their popularity. So I'm saying: let's keep that, let's continue in
+this system to support them based on their popularity. We can measure the
+popularity of all the artists with some kind of polling or sampling, so that we
+don't have to do surveillance. We can respect people's anonymity.
+
+OK, we get a raw popularity figure for each artist, how do we convert that into
+an amount of money? Well, the obvious way is: distribute the money in
+proportion to popularity. So if A is a thousand times as popular as B, A will
+get a thousand times as much money as B. That's not efficient distribution of
+the money. It's not putting the money to good use. You see, it's easy for a
+star A to be a thousand times as popular as a fairly successful artist B. And
+if we use linear proportion, we'll give A a thousand times as much money as we
+give B. And that means that, either we have to make A tremendously rich, or we
+are not supporting B enough.
+
+Well, the money we use to make A tremendously rich is failing to do an
+effective job of supporting the arts; so, it's inefficient. Therefore I say:
+let's use the cube root. Cube root looks sort of like this. The point is: if A
+is a thousand times as popular as B, with the cube root A will get ten times as
+much as B, not a thousand times as much, just ten times as much. So the use of
+the cube root shifts a lot of the money from the stars to the artists of
+moderate popularity. And that means, with less money we can adequately support
+a much larger number of artists.
+
+There are two reasons why this system would use less money than we pay now.
+First of all because it would be supporting artists but not companies, second
+because it would shift the money from the stars to the artists of moderate
+popularity. Now, it would remain the case that the more popular you are, the
+more money you get. And so the star A would still get more than B, but not
+astronomically more.
+
+That's one method, and because it won't be so much money it doesn't matter so
+much how we get the money. It could be from a special tax on Internet
+connectivity, it could just be some of the general budget that gets allocated
+to this purpose. We won't care because it won't be so much money, much less
+than we're paying now.
+
+The other method I've proposed is voluntary payments. Suppose each player had a
+button you could use to send one euro. A lot of people would send it; after all
+it's not that much money. I think a lot of you might push that button every
+day, to give one euro to some artist who had made a work that you liked. But
+nothing would demand this, you wouldn't be required or ordered or pressured to
+send the money; you would do it because you felt like it. But there are some
+people who wouldn't do it because they're poor and they can't afford to give
+one euro. And it's good that they won't give it, we don't have to squeeze money
+out of poor people to support the artists. There are enough non-poor people
+who'll be happy to do it. Why wouldn't you give one euro to some artists today,
+if you appreciated their work? It's too inconvenient to give it to them. So my
+proposal is to remove the inconvenience. If the only reason not to give that
+euro is you would have one euro less, you would do it fairly often.
+
+So these are my two proposals for how to support artists, while encouraging
+sharing because sharing is good. Let's put an end to the war on sharing, laws
+like DADVSI and HADOPI, it's not just the methods that they propose that are
+evil, their purpose is evil. That's why they propose cruel and draconian
+measures. They're trying to do something that's nasty by nature. So let's
+support artists in other ways.  Rights in cyberspace
+
+The last threat to our freedom in digital society is the fact that we don't
+have a firm right to do the things we do, in cyberspace. In the physical world,
+if you have certain views and you want to give people copies of a text that
+defends those views, you're free to do so. You could even buy a printer to
+print them, and you're free to hand them out on the street, or you're free to
+rent a store and hand them out there. If you want to collect money to support
+your cause, you can just have a can and people could put money into the can.
+You don't need to get somebody else's approval or cooperation to do these
+things.
+
+But, in the Internet, you do need that. For instance if want to distribute a
+text on the Internet, you need companies to help you do it. You can't do it by
+yourself. So if you want to have a website, you need the support of an ISP or a
+hosting company, and you need a domain name registrar. You need them to
+continue to let you do what you're doing. So you're doing it effectively on
+sufferance, not by right.
+
+And if you want to receive money, you can't just hold out a can. You need the
+cooperation of a payment company. And we saw that this makes all of our digital
+activities vulnerable to suppression. We learned this when the United States
+government launched a “distributed denial of service attack” (DDoS) against
+WikiLeaks. Now I'm making a bit of joke because the words “distributed denial
+of service attack” usually refer to a different kind of attack. But they fit
+perfectly with what the United States did. The United States went to the
+various kinds of network services that WikiLeaks depended on, and told them to
+cut off service to WikiLeaks. And they did!
+
+For instance, WikiLeaks had rented a virtual Amazon server, and the US
+government told Amazon: “Cut off service for WikiLeaks.” And it did,
+arbitrarily. And then, Amazon had certain domain names such as wikileaks.org.
+The US government tried to get all those domains shut off. But it didn't
+succeed, some of them were outside its control and were not shut off.
+
+Then, there were the payment companies. The US went to PayPal and said: “Stop
+transferring money to WikiLeaks or we'll make life difficult for you.” And
+PayPal shut off payments to WikiLeaks. And then it went to Visa and Mastercard
+and got them to shut off payments to WikiLeaks. Others started collecting money
+on WikiLeaks' behalf and their accounts were shut off too. But in this case,
+maybe something can be done. There's a company in Iceland which began
+collecting money on behalf of WikiLeaks, and so Visa and Mastercard shut off
+its account; it couldn't receive money from its customers either. And now, that
+business is suing Visa and Mastercard apparently, under European Union law,
+because Visa and Mastercard together have a near-monopoly. They're not allowed
+to arbitrarily deny service to anyone.
+
+Well, this is an example of how things need to be for all kinds of services
+that we use in the Internet. If you rented a store to hand out statements of
+what you think, or any other kind of information that you can lawfully
+distribute, the landlord couldn't kick you out just because he didn't like what
+you were saying. As long as you keep paying the rent, you have a right to
+continue in that store for a certain agreed-on period of time that you signed.
+So you have some rights that you can enforce. And they couldn't shut off your
+telephone line because the phone company doesn't like what you said, or because
+some powerful entity didn't like what you said and threatened the phone
+company. No! As long as you pay the bills and obey certain basic rules, they
+can't shut off your phone line. This is what it's like to have some rights!
+
+Well, if we move our activities from the physical world to the virtual world,
+then either we have the same rights in the virtual world, or we have been
+harmed. So, the precarity of all our Internet activities is the last of the
+menaces I wanted to mention.
+
+Now I'd like to say that for more information about free software, look at
+gnu.org. Also look at fsf.org, which is the website of the Free Software
+Foundation. You can go there and find many ways you can help us, for instance.
+You can also become a member of the Free Software Foundation through that site.
+[…] There is also the Free Software Foundation of Europe fsfe.org. You can join
+FSF Europe also. […]
+
+
+BC:
+
+    Tena koutou, tena koutou, tena koutou katoa. Today I have the privilege of
+    introducing Richard Stallman, whose keynote speech is being sponsored by
+    the School of Information Management at Victoria University of Wellington.
+
+    Richard has been working to promote software freedom for over 25 years. In
+    1983 he started the GNU project to develop a free operating system [the GNU
+    system], and in 1985 he set up the Free Software Foundation. Every time you
+    read or send a message to nz-libs, you use the Mailman software which is
+    part of the GNU project. So whether you realize it or not, Richard's work
+    has touched all of your lives.
+
+    I like to describe him as the most influential person most people have
+    never heard of, although he tells me that that cannot possibly be true
+    because it cannot be tested.  RMS: We can't tell.  BC:
+
+    I said that—I still like it. His ideas about software freedom and free
+    access to information were used by Tim Berners-Lee when he created the
+    world's first web server, and in 1999 his musings about a free online
+    encyclopedia inspired Jimmy Wales to set up what is now Wikipedia.
+
+    Today Richard will be talking to us about copyright vs community in the age
+    of computer networks, and their implications for libraries. Richard.  RMS:
+
+    I've been in New Zealand for a couple of weeks, and in the North Island it
+    was raining most of the time. Now I know why they call gumboots
+    “Wellingtons”. And then I saw somebody who was making chairs and tables out
+    of ponga wood, and he called it fern-iture. Then we took the ferry to get
+    here, and as soon as we got off, people started mocking and insulting us;
+    but there were no hard feelings, they just wanted to make us really feel
+    Picton.
+
+    The reason people usually invite me to give speeches is because of my work
+    on free software. This is not a talk about free software; this talk answers
+    the question whether the ideas of free software extend to other kinds of
+    works. But in order for that to make sense, I'd better tell you briefly
+    what free software means.
+
+    Free software is a matter of freedom, not price, so think of “free speech”,
+    not “free beer”. Free software is software that respects the user's
+    freedom, and there are four specific freedoms that the user deserves always
+    to have.
+
+        Freedom 0 is the freedom to run the program as you wish.  Freedom 1 is
+        the freedom to study the source code of the program and change it to
+        make the program do what you wish.  Freedom 2 is the freedom to help
+        your neighbour; that is, the freedom to redistribute copies of the
+        program, exact copies when you wish.  And Freedom 3 is the freedom to
+        contribute to your community. That's the freedom to publish your
+        modified versions when you wish.
+
+    If the program gives you these four freedoms then it's free software, which
+    means the social system of its distribution and use is an ethical system,
+    one which respects the user's freedom and the social solidarity of the
+    user's community. But if one of these freedoms is missing or insufficient,
+    then it's proprietary software, nonfree software, user-subjugating
+    software. It's unethical. It's not a contribution to society, it's a power
+    grab. This unethical practice should not exist; the goal of the free
+    software movement is to put an end to it. All software should be free, so
+    that all users can be free.
+
+    Proprietary software keeps the users divided and helpless: divided, because
+    they're forbidden to share it, and helpless, because they don't have the
+    source code so they can't change it. They can't even study it to verify
+    what it's really doing to them, and many proprietary programs have
+    malicious features which spy on the user, restrict the user, even back
+    doors to attack the user.
+
+    For instance, Microsoft Windows has a back door with which Microsoft can
+    forcibly install software changes, without getting permission from the
+    supposed owner of the computer. You may think it's your computer, but if
+    you've made the mistake of having Windows running in it, then really
+    Microsoft has owned your computer. Computers need to be defenestrated,
+    which means either throw Windows out of the computer, or throw the computer
+    out the window.
+
+    But any proprietary software gives the developers unjust power over the
+    users. Some of the developers abuse this power more, and some abuse it
+    less, but none of them ought to have it. You deserve to have control of
+    your computing, and not be forcibly dependent on a particular company. So
+    you deserve free software.
+
+    At the end of speeches about free software, people sometimes ask whether
+    these same freedoms and ideas apply to other things. If you have a copy of
+    a published work on your computer, it makes sense to ask whether you should
+    have the same four freedoms—whether it's ethically essential that you have
+    them or not. And that's the question that I'm going to address today.
+
+    If you have a copy of something that's not software, for the most part, the
+    only thing that might deny you any of these freedoms is copyright law. With
+    software that's not so. The main ways of making software nonfree are
+    contracts and withholding the source code from the users. Copyright is a
+    sort of secondary, back up method. For other things there's no such
+    distinction as between source code and executable code.
+
+    For instance, if we're talking about a text, if you can see the text to
+    read it, there's nothing in the text that you can't see. So it's not the
+    same kind of issue exactly as software. It's for the most part only
+    copyright that might deny you these freedoms.
+
+    So the question can be restated: “What should copyright law allow you to do
+    with published works? What should copyright law say?”
+
+    Copyright has developed along with copying technology, so it's useful to
+    review the history of copying technology. Copying developed in the ancient
+    world, where you'd use a writing instrument on a writing surface. You'd
+    read one copy and write another.
+
+    This technology was rather inefficient, but another interesting
+    characteristic was that it had no economy of scale. To write ten copies
+    would take ten times as long as to write one copy. It required no special
+    equipment other than the equipment for writing, and it required no special
+    skill other than literacy itself. The result was that copies of any
+    particular book were made in a decentralized manner. Wherever there was a
+    copy, if someone wanted to copy it, he could.
+
+    There was nothing like copyright in the ancient world. If you had a copy
+    and wanted to copy it, nobody was going to tell you you weren't
+    allowed—except if the local prince didn't like what the book said, in which
+    case he might punish you for copying it. But that's not copyright, but
+    rather something closely related, namely censorship. To this day, copyright
+    is often used in attempts to censor people.
+
+    That went on for thousands of years, but then there was a big advance in
+    copying technology, namely the printing press. The printing press made
+    copying more efficient, but not uniformly. [This was] because mass
+    production copying became a lot more efficient, but making one copy at a
+    time didn't benefit from the printing press. In fact, you were better off
+    just writing it by hand; that would be faster than trying to print one
+    copy.
+
+    The printing press has an economy of scale: it takes a lot of work to set
+    the type, but then you can make many copies very fast. Also, the printing
+    press and the type were expensive equipment that most people didn't own;
+    and the ability to use them, most literate people didn't know. Using a
+    press was a different skill from writing. The result was a centralized
+    manner of producing copies: the copies of any given book would be made in a
+    few places, and then they would be transported to wherever someone wanted
+    to buy copies.
+
+    Copyright began in the age of the printing press. Copyright in England
+    began as a system of censorship in the 1500s. I believe it was originally
+    meant to censor Protestants, but it was turned around and used to censor
+    Catholics and presumably lots of others as well. According to this law, in
+    order to publish a book you had to get permission from the Crown, and this
+    permission was granted in the form of a perpetual monopoly to publish it.
+    This was allowed to lapse in the 1680s, I believe [it expired in 1695
+    according to the Wikipedia entry]. The publishers wanted it back again, but
+    what they got was something somewhat different. The Statute of Anne gave
+    authors a copyright, and only for 14 years, although the author could renew
+    it once.
+
+    This was a totally different idea—a temporary monopoly for the author,
+    instead of a perpetual monopoly for the publisher. The idea developed that
+    copyright was a means of promoting writing.
+
+    When the US constitution was written, some people wanted authors to be
+    entitled to a copyright, but that was rejected. Instead, the US
+    Constitution says that Congress can optionally adopt a copyright law, and
+    if there is a copyright law, its purpose is to promote progress. In other
+    words, the purpose is not benefits for copyright holders or anybody they do
+    business with, but for the general public. Copyright has to last a limited
+    time; publishers keep hoping for us to forget about this.
+
+    Here we have an idea of copyright which is an industrial regulation on
+    publishers, controlled by authors, and designed to provide benefits to the
+    public at large. It functioned this way because it didn't restrict the
+    readers.
+
+    Now in the early centuries of printing, and still I believe in the 1790s,
+    lots of readers wrote copies by hand because they couldn't afford printed
+    copies. Nobody ever expected copyright law to be something other than an
+    industrial regulation. It wasn't meant to stop people from writing copies,
+    it was meant to regulate the publishers. Because of this it was easy to
+    enforce, uncontroversial, and arguably beneficial for society.
+
+    It was easy to enforce, because it only had to be enforced against
+    publishers. And it's easy to find the unauthorized publishers of a book—you
+    go to a bookstore and say “where do these copies come from?”. You don't
+    have to invade everybody's home and everybody's computer to do that.
+
+    It was uncontroversial because, as the readers were not restricted, they
+    had nothing to complain about. Theoretically they were restricted from
+    publishing, but not being publishers and not having printing presses, they
+    couldn't do that anyway. In what they actually could do, they were not
+    restricted.
+
+    It was arguably beneficial because the general public, according to the
+    concepts of copyright law, traded away a theoretical right they were not in
+    a position to exercise. In exchange, they got the benefits of more writing.
+
+    Now if you trade away something you have no possible use for, and you get
+    something you can use in exchange, it's a positive trade. Whether or not
+    you could have gotten a better deal some other way, that's a different
+    question, but at least it's positive.
+
+    So if this were still in the age of the printing press, I don't think I'd
+    be complaining about copyright law. But the age of the printing press is
+    gradually giving way to the age of the computer networks—another advance in
+    copying technology that makes copying more efficient, and once again not
+    uniformly so.
+
+    Here's what we had in the age of the printing press: mass production very
+    efficient, one at a time copying still just as slow as the ancient world.
+    Digital technology gets us here: they've both benefited, but one-off
+    copying has benefited the most.
+
+    We get to a situation much more like the ancient world, where one at a time
+    copying is not so much worse [i.e., harder] than mass production copying.
+    It's a little bit less efficient, a little bit less good, but it's
+    perfectly cheap enough that hundreds of millions of people do it. Consider
+    how many people write CDs once in a while, even in poor countries. You may
+    not have a CD-writer yourself, so you go to a store where you can do it.
+
+    This means that copyright no longer fits in with the technology as it used
+    to. Even if the words of copyright law had not changed, they wouldn't have
+    the same effect. Instead of an industrial regulation on publishers
+    controlled by authors, with the benefits set up to go to the public, it is
+    now a restriction on the general public, controlled mainly by the
+    publishers, in the name of the authors.
+
+    In other words, it's tyranny. It's intolerable and we can't allow it to
+    continue this way.
+
+    As a result of this change, [copyright] is no longer easy to enforce, no
+    longer uncontroversial, and no longer beneficial.
+
+    It's no longer easy to enforce because now the publishers want to enforce
+    it against each and every person, and to do this requires cruel measures,
+    draconian punishments, invasions of privacy, abolition of our basic ideas
+    of justice. There's almost no limit to how far they will propose to go to
+    prosecute the War on Sharing.
+
+    It's no longer uncontroversial. There are political parties in several
+    countries whose basic platform is “freedom to share”.
+
+    It's no longer beneficial because the freedoms that we conceptually traded
+    away (because we couldn't exercise them), we now can exercise. They're
+    tremendously useful, and we want to exercise them.
+
+    What would a democratic government do in this situation?
+
+    It would reduce copyright power. It would say: “The trade we made on behalf
+    of our citizens, trading away some of their freedom which now they need, is
+    intolerable. We have to change this; we can't trade away the freedom that
+    is important.” We can measure the sickness of democracy by the tendency of
+    governments to do the exact opposite around the world, extending copyright
+    power when they should reduce it.
+
+    One example is in the dimension of time. Around the world we see pressure
+    to make copyright last longer and longer and longer.
+
+    A wave of this started in the US in 1998. Copyright was extended by 20
+    years on both past and future works. I do not understand how they hope to
+    convince the now dead or senile writers of the 20s and 30s to write more
+    back then by extending copyright on their works now. If they have a time
+    machine with which to inform them, they haven't used it. Our history books
+    don't say that there was a burst of vigor in the arts in the 20s when all
+    the artists found out that their copyrights would be extended in 1998.
+
+    It's theoretically conceivable that 20 years more copyright on future works
+    would convince people to make more effort in producing those works. But not
+    anyone rational, because the discounted present value of 20 more years of
+    copyright starting 75 years in the future—if it's a work made for hire—and
+    probably even longer if it's a work with an individual copyright holder, is
+    so small it couldn't persuade any rational person to do anything different.
+    Any business that wants to claim otherwise ought to present its projected
+    balance sheets for 75 years in the future, which of course they can't do
+    because none of them really looks that far ahead.
+
+    The real reason for this law, the desire that prompted various companies to
+    purchase this law in the US Congress, which is how laws are decided on for
+    the most part, was they had lucrative monopolies and they wanted those
+    monopolies to continue.
+
+    For instance, Disney was aware that the first film in which Mickey Mouse
+    appeared would go into the public domain in a few years, and then anybody
+    would be free to draw that same character as part of other works. Disney
+    didn't want that to happen. Disney borrows a lot from the public domain,
+    but is determined never to give the slightest thing back. So Disney paid
+    for this law, which we refer to as the Mickey Mouse Copyright Act.
+
+    The movie companies say they want perpetual copyright, but the US
+    Constitution won't let them get that officially. So they came up with a way
+    to get the same result unofficially: “perpetual copyright on the
+    installment plan”. Every 20 years they extend copyright for 20 more years.
+    So that at any given time, any given work has a date when it will
+    supposedly fall into the public domain. But that date is like tomorrow, it
+    never comes. By the time you get there they will have postponed it, unless
+    we stop them next time.
+
+    That's one dimension, the dimension of duration. But even more important is
+    the dimension of breadth: which uses of the work does copyright cover?
+
+    In the age of the printing press, copyright wasn't supposed to cover all
+    uses of a copyrighted work, because copyright regulated certain uses that
+    were the exceptions in a broader space of unregulated uses. There were
+    certain things you were simply allowed to do with your copy of a book.
+
+    Now the publishers have got the idea that they can turn our computers
+    against us, and use them to seize total power over all use of published
+    works. They want to set up a pay-per-view universe. They're doing it with
+    DRM (Digital Restrictions Management)—the intentional features of software
+    that's designed to restrict the user. And often the computer itself is
+    designed to restrict the user.
+
+    The first way in which the general public saw this was in DVDs. A movie on
+    a DVD was usually encrypted, and the format was secret. The DVD conspiracy
+    kept this secret because they said anyone that wants to make DVD players
+    has to join the conspiracy, promise to keep the format secret, and promise
+    to design the DVD players to restrict the users according to the rules,
+    which say it has to stop the user from doing this, from doing that, from
+    doing that—a precise set of requirements, all of which are malicious
+    towards us.
+
+    It worked for a while, but then some people figured out the secret format,
+    and published free software capable of reading the movie on a DVD and
+    playing it. Then the publishers said “since we can't actually stop them, we
+    have to make it a crime”. And they started that in the US in 1998 with the
+    Digital Millennium Copyright Act, which imposed censorship on software
+    capable of doing such jobs.
+
+    So that particular piece of free software was the subject of a court case.
+    Its distribution in the US is forbidden; the US practices censorship of
+    software.
+
+    The movie companies are well aware that they can't really make that program
+    disappear—it's easy enough to find it. So they designed another encryption
+    system, which they hoped would be harder to break, and it's called AACS, or
+    the axe.
+
+    The AACS conspiracy makes precise rules about all players. For instance, in
+    2011 it's going to be forbidden to make analog video outputs. So all video
+    outputs will have to be digital, and they will carry the signal encrypted
+    into a monitor specially designed to keep secrets from the user. That is
+    malicious hardware. They say that the purpose of this is to “close the
+    analog hole”. I'll show you a couple of analog holes (Stallman takes off
+    his glasses): here's one and here's another, that they'd like to poke out
+    permanently.[1]
+
+    How do I know about these conspiracies? The reason is they're not
+    secret—they have websites. The AACS website proudly describes the contracts
+    that manufacturers have to sign, which is how I know about this
+    requirement. It proudly states the names of the companies that have
+    established this conspiracy, which include Microsoft and Apple, and Intel,
+    and Sony, and Disney, and IBM.
+
+    A conspiracy of companies designed to restrict the public's access to
+    technology ought to be prosecuted as a serious crime, like a conspiracy to
+    fix prices, except it's worse, so the prison sentences for this should be
+    longer. But these companies are quite confident that our governments are on
+    their side against us. They have no fear against being prosecuted for these
+    conspiracies, which is why they don't bother to hide them.
+
+    In general DRM is set up by a conspiracy of companies. Once in a while a
+    single company can do it, but generally it requires a conspiracy between
+    technology companies and publishers, so [it's] almost always a conspiracy.
+
+    They thought that nobody would ever be able to break the AACS, but about
+    three and a half years ago someone released a free program capable of
+    decrypting that format. However, it was totally useless, because in order
+    to run it you need to know the key.
+
+    And then, six months later, I saw a photo of two adorable puppies, with 32
+    hex digits above them, and I wondered: “Why put those two things together?
+    I wonder if those numbers are some important key, and someone could have
+    put the numbers together with the puppies, figuring people would copy the
+    photo of the puppies because they were so cute. This would protect the key
+    from being wiped out.”
+
+    And that's what it was—that was the key to break the axe. People posted it,
+    and editors deleted it, because laws in many countries now conscript them
+    to censor this information. It was posted again, they deleted it;
+    eventually they gave up, and in two weeks this number was posted in over
+    700,000 web sites.
+
+    That's a big outpouring of public disgust with DRM. But it didn't win the
+    war, because the publishers changed the key. Not only that: with HD DVD,
+    this was adequate to break the DRM, but not with Blu-ray. Blu-ray has an
+    additional level of DRM and so far there is no free software that can break
+    it, which means that you must regard Blu-ray disks as something
+    incompatible with your own freedom. They are an enemy with which no
+    accommodation is possible, at least not with our present level of
+    knowledge.
+
+    Never accept any product designed to attack your freedom. If you don't have
+    the free software to play a DVD, you mustn't buy or rent any DVDs, or
+    accept them even as gifts, except for the rare non-encrypted DVDs, which
+    there are a few of. I actually have a few [of these]—I don't have any
+    encrypted DVDs, I won't take them.
+
+    So this is how things stand in video, but we've also seen DRM in music.
+
+    For instance, about ten years ago we started to see things that looked like
+    compact disks, but they weren't written quite like compact disks. They
+    didn't follow the standard. We called them 'corrupt disks', and the idea of
+    them was that they would play in an audio player, but it was impossible to
+    read them on a computer. These different methods had various problems.
+
+    Eventually Sony came up with a clever idea. They put a program on the disk,
+    so that if you stuck the disk into a computer, the disk would install the
+    program. This program was designed like a virus to take control of the
+    system. It's called a 'root kit', meaning that it has things in it to break
+    the security of the system so that it can install the software deep inside
+    the system, and modify various parts of the system.
+
+    For instance, it modified the command you could use to examine the system
+    to see if the software was present, so as to disguise itself. It modified
+    the command you could use to delete some of these files, so that it
+    wouldn't really delete them. Now all of this is a serious crime, but it's
+    not the only one Sony committed, because the software also included free
+    software code—code that had been released under the GNU General Public
+    License.
+
+    Now the GNU GPL is a copyleft license, and that means it says “Yes, you're
+    free to put this code into other things, but when you do, the entire
+    program that you put things into you must release as free software under
+    the same license. And you must make the source code available to users, and
+    to inform them of their rights you must give them a copy of this license
+    when they get the software.”
+
+    Sony didn't comply with all that. That's commercial copyright infringement,
+    which is a felony. They're both felonies, but Sony wasn't prosecuted
+    because the government understands that the purpose of the government and
+    the law is to maintain the power of those companies over us, not to help
+    defend our freedom in any way.
+
+    People got angry and they sued Sony. However, they made a mistake. They
+    focused their condemnation not on the evil purpose of this scheme, but only
+    on the secondary evils of the various methods that Sony used. So Sony
+    settled the lawsuits and promised that in the future, when it attacks our
+    freedom, it will not do those other things.
+
+    Actually, that particular corrupt disk scheme was not so bad, because if
+    you were not using Windows it would not affect you at all. Even if you were
+    using Windows, there's a key on the keyboard—if you remembered every time
+    to hold it down, then the disk wouldn't install the software. But of course
+    it's hard to remember that every time; you're going to slip up some day.
+    This shows the kind of thing we've had to deal with.
+
+    Fortunately music DRM is receding. Even the main record companies sell
+    downloads without DRM. But we see a renewed effort to impose DRM on books.
+
+    You see, the publishers want to take away the traditional freedoms of book
+    readers—freedom to do things such as borrow a book from the public library,
+    or lend it to a friend; to sell a book to a used book store, or buy it
+    anonymously paying cash (which is the only way I buy books—we've got to
+    resist the temptations to let Big Brother know everything that we're
+    doing.)
+
+    Even the freedom to keep the book as long as you wish, and read it as many
+    times as you wish, they plan to get rid of.
+
+    The way they do it is with DRM. They knew that so many people read books
+    and would get angry if these freedoms were taken away that they didn't
+    believe they could buy a law specifically to abolish these freedoms—there
+    would be too much opposition. Democracy is sick, but once in a while people
+    manage to demand something. So they came up with a two-stage plan.
+
+    First, take away these freedoms from ebooks, and second, convince people to
+    switch from paper books to ebooks. They've succeeded with stage 1.
+
+    In the US they did it with the Digital Millennium Copyright Act, and in New
+    Zealand, that was part of the year-ago Copyright Act; censorship on
+    software that can break DRM was part of that law. That's an unjust
+    provision; it's got to be repealed.
+
+    The second stage is convince people to switch from printed books to ebooks;
+    that didn't go so well.
+
+    One publisher in 2001 had the idea they would make their line of ebooks
+    really popular if they started it with my biography. So they found an
+    author and the author asked me if I'd cooperate, and I said “Only if this
+    ebook is published without encryption, without DRM”. The publisher wouldn't
+    go along with that, and I just stuck to it—I said no. Eventually we found
+    another publisher who was willing to do this—in fact willing to publish the
+    book under a free license giving you the four freedoms—so the book was then
+    published, and sold a lot of copies on paper.
+
+    But in any case, ebooks failed at the beginning of this decade. People just
+    didn't want to read them very much. And I said, “they will try again”. We
+    saw an amazing number of news articles about electronic ink (or is it
+    electronic paper, I can never remember which), and it occurred to me
+    probably the reason there's so many is the publishers want us to think
+    about this. They want us to be eager for the next generation of ebook
+    readers.
+
+    Now they're upon us. Things like the Sony Shreader (its official name is
+    the Sony Reader, but if you put on 'sh' it explains what it's designed to
+    do to your books), and the Amazon Swindle, designed to swindle you out of
+    your traditional freedoms without your noticing. Of course, they call it
+    the Kindle which is what it's going to do to your books.
+
+    The Kindle is an extremely malicious product, almost as malicious as
+    Microsoft Windows. They both have spy features, they both have Digital
+    Restrictions Management, and they both have back doors.
+
+    In the case of the Kindle, the only way you can buy a book is to buy it
+    from Amazon, and Amazon requires you to identify yourself, so they know
+    everything that you've bought.
+
+    Then there is Digital Restrictions Management, so you can't lend the book
+    or sell it to a used bookstore, and the library can't lend it either.
+
+    And then there's the back door, which we found out about about three months
+    ago, because Amazon used it. Amazon sent a command to all the Kindles to
+    erase a particular book, namely 1984 by George Orwell. Yes, they couldn't
+    have picked a more ironic book to erase. So that's how we know that Amazon
+    has a back door with which it can erase books remotely.
+
+    What else it can do, who knows? Maybe it's like Microsoft Windows. Maybe
+    Amazon can remotely upgrade the software, which means that whatever
+    malicious things are not in it now, they could put them in it tomorrow.
+
+    This is intolerable—any one of these restrictions is intolerable. They want
+    to create a world where nobody lends books to anybody anymore.
+
+    Imagine that you visit a friend and there are no books on the shelf. It's
+    not that your friend doesn't read, but his books are all inside a device,
+    and of course he can't lend you those books. The only way he could lend you
+    any one of those books is to lend you his whole library, which is obviously
+    a ridiculous thing to ask anybody to do. So there goes friendship for
+    people who love books.
+
+    Make sure that you inform people what this device implies. It means other
+    readers will no longer be your friends, because you will be acting like a
+    jerk toward them. Spread the word preemptively. This device is your enemy.
+    It's the enemy of everyone who reads. The people who don't recognize that
+    are the people who are thinking so short-term that they don't see it. It's
+    our job to help them see beyond the momentary convenience to the
+    implications of this device.
+
+    I have nothing against distributing books in digital form, if they are not
+    designed to take away our freedom. Strictly speaking, it is possible to
+    have an ebook reader:
+
+        that is not designed to attack you, which runs free software and not
+        proprietary software, which doesn't have DRM, which doesn't make people
+        identify yourself to get a book, which doesn't have a back door, [and]
+        which doesn't restrict what you can do with the files on your machine.
+
+    It's possible, but the big companies really pushing ebooks are doing it to
+    attack our freedom, and we mustn't stand for that. This is what governments
+    are doing in cahoots with big business to attack our freedom, by making
+    copyright harsher and nastier, more restrictive than ever before.
+
+    But what should they do? Governments should make copyright power less. Here
+    are my specific proposals.
+
+    First of all, there is the dimension of time. I propose copyright should
+    last ten years, starting from the date of publication of a work.
+
+    Why from the date of publication? Because before that, we don't have
+    copies. It doesn't matter to us whether we would have been allowed to copy
+    our copies that we don't have, so I figure we might as well let the authors
+    have as much time as it takes to arrange publication, and then start the
+    clock.
+
+    But why ten years? I don't know about in this country, but in the US, the
+    publication cycle has got shorter and shorter. Nowadays almost all books
+    are remaindered within two years and out-of-print within three. So ten
+    years is more than three times the usual publication cycle—that should be
+    plenty comfortable.
+
+    But not everybody agrees. I once proposed this in a panel discussion with
+    fiction writers, and the award-winning fantasy writer next to me said “Ten
+    years? No way. Anything more than five years is intolerable.” You see, he
+    had a legal dispute with his publisher. His books seemed to be out of
+    print, but the publisher wouldn't admit it. The publisher was using the
+    copyright on his own book to stop him from distributing copies himself,
+    which he wanted to do so people could read it.
+
+    This is what every artist starts out wanting—wanting to distribute her work
+    so it will get read and appreciated. Very few make a lot of money. That
+    tiny fraction face the danger of being morally corrupted, like J.K.
+    Rowling.
+
+    J.K. Rowling, in Canada, got an injunction against people who had bought
+    her book in a bookstore, ordering them not to read it. So in response I
+    call for a boycott of Harry Potter books. But I don't say you shouldn't
+    read them; I leave that to the author and the publisher. I just say you
+    shouldn't buy them.
+
+    It's few authors that make enough money that they can be corrupted in this
+    way. Most of them don't get anywhere near that, and continue wanting the
+    same thing they wanted at the outset: they want their work to be
+    appreciated.
+
+    He wanted to distribute his own book, and copyright was stopping him. He
+    realized that more than five years of copyright was unlikely to ever do him
+    any good.
+
+    If people would rather have copyright last five years, I won't be against
+    it. I propose ten as a first stab at the problem. Let's reduce it to ten
+    years and then take stock for a while, and we could adjust it after that. I
+    don't say I think ten years is the exact right number—I don't know.
+
+    What about the dimension of breadth? Which activities should copyright
+    cover? I distinguish three broad categories of works.
+
+    First of all, there are the functional works that you use to do a practical
+    job in your life. This includes software, recipes, educational works,
+    reference works, text fonts, and other things you can think of. These works
+    should be free.
+
+    If you use the work to do a job in your life, then if you can't change the
+    work to suit you, you don't control your life. Once you have changed the
+    work to suit you, then you've got to be free to publish it—publish your
+    version—because there will be others who will want the changes you've made.
+
+    This leads quickly to the conclusion that users have to have the same four
+    freedoms [for all functional works], not just for software. And you'll
+    notice that for recipes, practically speaking, cooks are always sharing and
+    changing recipes just as if the recipes were free. Imagine how people would
+    react if the government tried to stamp out so-called “recipe piracy”.
+
+    The term “pirate” is pure propaganda. When people ask me what I think of
+    music piracy, I say “As far as I know, when pirates attack they don't do it
+    by playing instruments badly, they do it with arms. So it's not music
+    “piracy”, because piracy is attacking ships, and sharing is as far as you
+    get from being the moral equivalent of attacking ships”. Attacking ships is
+    bad, sharing with other people is good, so we should firmly denounce that
+    propaganda term “piracy” whenever we hear it.
+
+    People might have objected twenty years ago: “If we don't give up our
+    freedom, if we don't let the publishers of these works control us, the
+    works won't get made and that will be a horrible disaster.” Now, looking at
+    the free software community, and all the recipes that circulate, and
+    reference works like Wikipedia—we are even starting to see free textbooks
+    being published—we know that that fear is misguided.
+
+    There is no need to despair and give up our freedom thinking that otherwise
+    the works won't get made. There are lots of ways to encourage them to get
+    made if we want more—lots of ways that are consistent with and respect our
+    freedom. In this category, they should all be free.
+
+    But what about the second category, of works that say what certain people
+    thought, like memoirs, essays of opinion, scientific papers, and various
+    other things?[2] To publish a modified version of somebody else's statement
+    of what he thought is misrepresenting [that] somebody. That's not
+    particularly a contribution to society.
+
+    Therefore it is workable and acceptable to have a somewhat reduced
+    copyright system where all commercial use is covered by copyright, all
+    modification is covered by copyright, but everyone is free to
+    non-commercially redistribute exact copies.
+
+    [2015 note: publishing scientific papers under the CC Attribution license
+    (CC-BY) is widely done, in accessible journals and arXiv.org, and it works
+    well, so that is what I now recommend for scholarly publications.]
+
+    That freedom is the minimum freedom we must establish for all published
+    works, because the denial of that freedom is what creates the War on
+    Sharing—what creates the vicious propaganda that sharing is theft, that
+    sharing is like being a pirate and attacking ships. Absurdities, but
+    absurdities backed by a lot of money that has corrupted our governments. We
+    need to end the War on Sharing; we need to legalize sharing exact copies of
+    any published work.
+
+    In the second category of works, that's all we need; we don't need to make
+    them free. Therefore I think it's OK to have a reduced copyright system
+    which covers commercial use and all modifications. And this will provide a
+    revenue stream to the authors in more or less the same (usually inadequate)
+    way as the present system. You've got to keep in mind [that] the present
+    system, except for superstars, is usually totally inadequate.
+
+    What about works of art and entertainment? Here it took me a while to
+    decide what to think about modifications.
+
+    You see, on one hand, a work of art can have an artistic integrity and
+    modifying it could destroy that. Of course, copyright doesn't necessarily
+    stop works from being butchered that way. Hollywood does it all the time.
+    On the other hand, modifying the work can be a contribution to art. It
+    makes possible the folk process which leads to things which are beautiful
+    and rich.
+
+    Even if we look at named authors only: consider Shakespeare, who borrowed
+    stories from other works only a few decades old, and did them in different
+    ways, and made important works of literature. If today's copyright law had
+    existed then, that would have been forbidden and those plays wouldn't have
+    been written.
+
+    But eventually I realized that modifying a work of art can be a
+    contribution to art, but it's not desperately urgent in most cases. If you
+    had to wait ten years for the copyright to expire, you could wait that
+    long. Not like the present-day copyright that makes you wait maybe 75
+    years, or 95 years. In Mexico you might have to wait almost 200 years in
+    some cases, because copyright in Mexico expires a hundred years after the
+    author dies. This is insane, but ten years, as I've proposed copyright
+    should last, that people can wait.
+
+    So I propose the same partly reduced copyright that covers commercial use
+    and modification, but everyone's got to be free to non-commercially
+    redistribute exact copies. After ten years it goes into the public domain,
+    and people can contribute to art by publishing their modified versions.
+
+    One other thing: if you're going to take little pieces out of a bunch of
+    works and rearrange them into something totally different, that should just
+    be legal, because the purpose of copyright is to promote art, not to
+    obstruct art. It's stupid to apply copyright to using snippets like
+    that—it's self-defeating. It's a kind of distortion that you'd only get
+    when the government is under the control of the publishers of the existing
+    successful works, and has totally lost sight of its intended purpose.
+
+    That's what I propose, and in particular, this means that sharing copies on
+    the Internet must be legal. Sharing is good. Sharing builds the bonds of
+    society. To attack sharing is to attack society.
+
+    So any time the government proposes some new means to attack people who
+    share, to stop them from sharing, we have to recognize that this is evil,
+    not just because the means proposed almost invariably offend basic ideas of
+    justice (but that's not a coincidence). The reason is because the purpose
+    is evil. Sharing is good and the government should encourage sharing.
+
+    But copyright did after all have a useful purpose. Copyright as a means to
+    carry out that purpose has a problem now, because it doesn't fit in with
+    the technology we use. It interferes with all the vital freedoms for all
+    the readers, listeners, viewers, and whatever, but the goal of promoting
+    the arts is still desirable. So in addition to the partly reduced copyright
+    system, which would continue to be a copyright system, I propose two other
+    methods.
+
+    One [works via] taxes—distribute tax money directly to artists. This could
+    be a special tax, perhaps on Internet connectivity, or it could come from
+    general revenue, because it won't be that much money in total, not if it's
+    distributed in an efficient way. To distribute it efficiently to promote
+    the arts means not in linear proportion to popularity. It should be based
+    on popularity, because we don't want bureaucrats to have the discretion to
+    decide which artists to support and which to ignore, but based on
+    popularity does not imply linear proportion.
+
+    What I propose is measure the popularity of the various artists, which you
+    could do through polling (samples) in which nobody is required to
+    participate, and then take the cube root. The cube root looks like this: it
+    means basically that [the payment] tapers off after a while.
+
+    If superstar A is a thousand times as popular as successful artist B, with
+    this system A would get ten times as much money as B, not a thousand times.
+
+    Linearly would give A a thousand times as much as B, which means that if we
+    wanted B to get enough to live on we're going to have to make A
+    tremendously rich. This is wasteful use of the tax money—it shouldn't be
+    done.
+
+    But if we make it taper off, then yes, each superstar will get handsomely
+    more than an ordinary successful artist, but the total of all the
+    superstars will be a small fraction of the [total] money. Most of the money
+    will go to support a large number of fairly successful artists, fairly
+    appreciated artists, fairly popular artists. Thus the system will use money
+    a lot more efficiently than the existing system.
+
+    The existing system is regressive. It actually gives far, far more per
+    record, for instance, to a superstar than to anybody else. The money is
+    extremely badly used. The result is we'd actually be paying a lot less this
+    way. I hope that's enough to mollify some of these people who have a
+    knee-jerk hostile reaction to taxes—one that I don't share, because I
+    believe in a welfare state.
+
+    I have another suggestion which is voluntary payments. Suppose every player
+    had a button you could push to send a dollar to the artist who made the
+    work you're currently playing or the last one you played. This money would
+    be delivered anonymously to those artists. I think a lot of people would
+    push that button fairly often.
+
+    For instance, all of us could afford to push that button once every day,
+    and we wouldn't miss that much money. It's not that much money for us, I'm
+    pretty sure. Of course, there are poor people who couldn't afford to push
+    it ever, and it's OK if they don't. We don't need to squeeze money out of
+    poor people to support the artists. There are enough people who are not
+    poor to do the job just fine. I'm sure you're aware that a lot of people
+    really love certain art and are really happy to support the artists.
+
+    An idea just came to me. The player could also give you a certificate of
+    having supported so-and-so, and it could even count up how many times you
+    had done it and give you a certificate that says “I sent so much to these
+    artists”. There are various ways we could encourage people who want to do
+    it.
+
+    For instance, we could have a PR campaign which is friendly and kind: “Have
+    you sent a dollar to some artists today? Why not? It's only a dollar—you'll
+    never miss it and don't you love what they're doing? Push the button!” It
+    will make people feel good, and they'll think “Yeah, I love what I just
+    watched. I'll send a dollar.”
+
+    This is already starting to work to some extent. There's a Canadian singer
+    who used to be called Jane Siberry. She put her music on her website and
+    invited people to download it and pay whatever amount they wished. She
+    reported getting an average of more than a dollar per copy, which is
+    interesting because the major record companies charge just under a dollar
+    per copy. By letting people decide whether and how much to pay, she got
+    more—she got even more per visitor who was actually downloading something.
+    But this might not even count whether there was an effect of bringing more
+    people to come, and [thus] increasing the total number that this average
+    was against.
+
+    So it can work, but it's a pain in the neck under present circumstances.
+    You've got to have a credit card to do it, and that means you can't do it
+    anonymously. And you've got to go find where you're going to pay, and the
+    payment systems for small amounts, they're not very efficient, so the
+    artists are only getting half of it. If we set up a good system for this,
+    it would work far, far better.
+
+    So these are my two suggestions.
+
+    And in mecenatglobal.org, you can find another scheme that combines aspects
+    of the two, which was invented by Francis Muguet and designed to fit in
+    with existing legal systems better to make it easier to enact.
+
+    Be careful of proposals to “compensate the rights holders”, because when
+    they say “compensate”, they're trying to presume that if you have
+    appreciated a work, you now have a specific debt to somebody, and that you
+    have to “compensate” that somebody. When they say “rights holders”, it's
+    supposed to make you think it's supporting artists while in fact it's going
+    to the publishers—the same publishers who basically exploit all the artists
+    (except the few that you've all heard of, who are so popular that they have
+    clout).
+
+    We don't owe a debt; we have nobody that we have to “compensate”. [But]
+    supporting the arts is still a useful thing to do. That was the motivation
+    for copyright back when copyright fit in with the technology of the day.
+    Today copyright is a bad way to do it, but it's still good to do it other
+    ways that respect our freedom.
+
+    Demand that they change the two evil parts of the New Zealand Copyright
+    Act. They shouldn't replace the three strikes punishment[3], because
+    sharing is good, and they've got to get rid of the censorship for the
+    software to break DRM. Beware of ACTA—they're trying to negotiate a treaty
+    between various countries, for all of these countries to attack their
+    citizens, and we don't know how because they won't tell us.
+
+There are a number of reasons why I'm not a communist. The first of them is
+that I'm not against the idea of private business, as long as it does not
+oppose people's human rights and the interests of society. Business is
+legitimate as long as it treats the rest of society decently.
+
+Computing is a new area of human life. So we have to think about the human
+rights associated with this. What are the human rights software users are
+entitled to? Four freedoms define Free Software. A programme is Free Software
+for a user if:
+
+    Freedom 0: Run the software as you wish.  Freedom 1: Share the source code
+    and change it.  Freedom 2: Help your neighbour and distribute and publish.
+    Freedom 3: Help your community and distribute your modified versions.
+
+With these 4 Freedoms, you can live an upright life with your community. If you
+use nonfree, proprietary software, the developer has the power to decide what
+you can do. He can use that power over you. Like Microsoft. That game is evil.
+Nobody should play it. So it's not a question of beating Microsoft at its game.
+I set out to get away from that game.
+
+Once GNU-Linux was ready in 1992, it began to catch on. It was reliable,
+powerful, cheap and flexible. Thousands and millions of people began to use
+GNU-Linux. But the ideals of freedom began to be forgotten though. In 1998,
+people stopped talking about Free Software. Instead they said “open source”.
+That was a way of not saying “free” and not mentioning the ideas behind it. I
+don't disagree with that, but that's not what I am interested in. What I'm
+really interested in most of all is to teach people to value their freedoms and
+to fight for them. In software, as in the US, our freedom is threatened. So the
+basic things we need to do are: remember our freedom frequently, value it and
+insist on it. When someone says they protect me from terrorism by taking away
+my freedom—say No! Similarly, with software that threatens our freedom, that
+might give us some temporary comparative advantage—we should say No!
+
+West Bengal should not follow the world trend. It should stand up for freedom.
+That's different. No! I'm not going to let the world lead me where it wants to
+go. I'm going where freedom is. If you're going elsewhere—I'm not going there.
+It requires firmness, it requires a decision that says freedom matters and
+hence it must be promoted. Even if that's inconvenient. Freedom needs some
+sacrifices, some inconvenience, some price. But it's a small price to pay.
+
+By globalisation, people usually mean globalisation of the power of business.
+Business should not have political power. Otherwise democracy becomes sick. And
+with globalisation of business power, this political power is enhanced. Free
+trade treaties are designed to attack democracy. For instance, it explicitly
+allows any business to sue government if a law makes its profit less than it
+has been. Companies have to be paid for the permission to do anything of social
+or environmental importance. Not all free trade treaties do this explicitly.
+They do it implicitly. Companies can threaten to move away elsewhere. And they
+do use this threat. This actually happened some years ago, with the EU software
+patents. The govt of Denmark was threatened that if they did not support this
+the company would move the business elsewhere. This tiny threat was sufficient
+to blackmail the govt of Denmark. If you allow a foreign mega-corporation to
+buy a domestic corporation, you are allowing it to buy a weapon pointed against
+your country. The environment, public health, general standards of living—are
+all important, and free trade treaties should be abolished. They are harmful to
+freedom, health and the lives of people.
+
+I do not accept the term “intellectual property”. The very term is biased and
+confusing. It talks about useful techniques and works. It presumes they are
+“property”. It prejudges such questions. There's also a more subtle problem. It
+lumps together all the diverse things and makes it look like you can talk about
+all of them together. Copyright, patents, trade laws—are all very different. It
+takes the geatest efforts of the best scholars to overcome the confusion caused
+by the term “intellectual property” and to discuss the details of these
+individual items. The GATT Treaty and the TRIPS—actually it should be called
+Trade-related Impediments to Education and Science. Free trade and enhancement
+of world trade harms democracy. When you globalise something evil, it becomes a
+greater evil. And when you globalise something good, it becomes a greater good.
+Human knowledge and cooperation are such “goods”. The Free Software Movement is
+a part of that. It is the globalisation of one area of human knowledge, namely
+software. Through global cooperation like this, you get freedom and
+independence for every region and every country.
+
+Proprietary software is a colonial system. It's electronic colonialism. And not
+by a country, but by a corporation. Electronic colonial powers keep people
+divided and helpless. Look at the end-user licensing agreement. You don't have
+the source code, you are helpless. You can't share, and so you are kept
+divided. National colonial powers recruit local elites and pay them and keep
+them above the rest of the people, working for the colonial masters. Today we
+see electronic colonial powers recruit native zamindars to keep the system
+intact. Microsoft sets up a research facility and in exchange it keeps its grip
+firmly on everyone else. Govts and schools are in their grip. They know how to
+do this. They know how to buy govt support. But what's the govt buying?
+Dependency, not development. Only Free Software constitutes development. It
+enables any activity to be fully under the control of the people doing it. Free
+Software is appropriate technology. Proprietary software is not appropriate for
+any use.
+
+The West Bengal govt has an opportunity to adopt a policy of firm leadership in
+this regard. This will give a boost to human resource development. Free
+Software respects people's freedom. Govt has an influence on the future of
+society. Choosing which software to teach students: if you teach them Windows,
+they will be Windows users. For something else, they need to learn, and make
+the effort to learn something else. Microsoft knows this. So it donates Windows
+to schools. Addiction (through using unauthorised software use) only helps
+them. They didn't want to leave anything to choice, so they give Windows free
+to schools. Like injecting a dose. The first dose is gratis. Afterwards it's
+not gratis, either for them or their employers. This is a way to impose their
+power on the rest of society and its future. Schools have a mission to society.
+This mission requires teaching students to live in freedom, teaching skills to
+make it easy to live in freedom. This means using Free Software.
+
+Free Software is good for computer science education, to maximise the potential
+of natural programmers. It gives students the opportunity to really learn. It's
+good for the natural programmers. If you have proprietary software, the teacher
+says “I don't know”, “You are not allowed to know, it's a secret.” So the
+alternative is to give him the source codes and let him read it all. They will
+then learn to be really good programmers. But the most crucial reason is for
+the sake of moral education. Teaching them to be good corporations and
+benevolent, helpful citizens. This has to be taught. School has to teach by
+example. If you bring software to class, you must share this with other kids.
+Or don't bring it. Schools must follow their own rule, by bringing Free
+Software to class. Schools should use 100% Free Software. No proprietary
+software should be used in schools. Public agencies, after a migration period,
+should use Free Software. All software development must run on Free Software
+platforms. And if it's released to the public, it must be Free Software. (Free:
+as in free speech, not free beer.)
+
+One easy and useful way to put Free Software in schools—is to participate in
+the “1 Laptop per Child” programme. India recently pulled out of this
+programme, I'm told. I'm told the Indian govt is making lots of laws to make
+multinational corporations happy. Maybe this was to make Microsoft happy. Even
+if India is not, West Bengal can participate in the 1 Laptop per child
+programme. I can put them in touch with the people developing that machine.
+
+The Govt of India is considering a vicious new copyright law, imitating US law,
+in favour of large businesses, and against its citizens. The only emergency I
+can see that requires this being rushed through is catastrophic shortfall in
+the dream profits of some businesses! Foreigners should not have political
+power. In my case, I don't.
