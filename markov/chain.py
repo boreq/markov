@@ -63,6 +63,11 @@ class Chain(BaseChain):
             json.dump(data, f)
 
     def grow(self, words):
+        """Grows this chain using the provided words. The words should form
+        a single complete sentence.
+
+        words: list of strings.
+        """
         prev = None
         for word in words:
             i = self._add_word(word)
@@ -71,6 +76,7 @@ class Chain(BaseChain):
         self._add_association(prev, None)
 
     def generate(self):
+        """Generate a sequence of words."""
         sentence = []
         prev = None
         while True:
